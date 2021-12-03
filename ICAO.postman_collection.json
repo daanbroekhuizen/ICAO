@@ -1,0 +1,81 @@
+{
+	"info": {
+		"_postman_id": "6cd0cfe0-e796-46e4-8cc5-9d205810e820",
+		"name": "ICAO",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Aircraft Type Designators",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://applications.icao.int/dataservices/api/type-list?api_key={{api_key}}&format=csv&manufacturer=",
+					"protocol": "https",
+					"host": [
+						"applications",
+						"icao",
+						"int"
+					],
+					"path": [
+						"dataservices",
+						"api",
+						"type-list"
+					],
+					"query": [
+						{
+							"key": "api_key",
+							"value": "{{api_key}}"
+						},
+						{
+							"key": "format",
+							"value": "csv"
+						},
+						{
+							"key": "manufacturer",
+							"value": ""
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Manufacturer List",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://applications.icao.int/dataservices/api/manufacturer-list?api_key={{api_key}}&format=csv&manufacturer=",
+					"protocol": "https",
+					"host": [
+						"applications",
+						"icao",
+						"int"
+					],
+					"path": [
+						"dataservices",
+						"api",
+						"manufacturer-list"
+					],
+					"query": [
+						{
+							"key": "api_key",
+							"value": "{{api_key}}"
+						},
+						{
+							"key": "format",
+							"value": "csv"
+						},
+						{
+							"key": "manufacturer",
+							"value": ""
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
