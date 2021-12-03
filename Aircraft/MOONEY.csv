@@ -1,0 +1,69 @@
+manufacturer_code,model_no,model_name,model_version,engine_count,engine_type,aircraft_desc,description,wtc,tdesig,wtg
+MOONEY,,201,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,,205,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,,231,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,,252TSE,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,A-2,Aircoupe,,1,Piston,LandPlane,L1P,L,ERCO,G
+MOONEY,,Aircoupe,,1,Piston,LandPlane,L1P,L,ERCO,G
+MOONEY,,Allegro,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,,ATS,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,,Bravo,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,,Cadet,,1,Piston,LandPlane,L1P,L,M10,G
+MOONEY,,Chaparral,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,,Eagle,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,,Encore,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,,Executive,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-10,Cadet,,1,Piston,LandPlane,L1P,L,M10,G
+MOONEY,M-18,Mite,,1,Piston,LandPlane,L1P,L,MITE,G
+MOONEY,M-18,Wee Scotsman,,1,Piston,LandPlane,L1P,L,MITE,G
+MOONEY,M-20,,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20A,,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20B,Mark 21,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20C,Mark 21,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20C,Ranger,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20D,Master,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20E,Chaparral,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20E,Super 21,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20F,Executive,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20G,Statesman,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20J,201,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20J,205,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20J,Allegro,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20J,ATS,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20J,MSE,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20K,231,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,M-20K,252TSE,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,M-20K,Encore,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,M-20L,PFM,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20M,Bravo,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,M-20M,TLS,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,M-20R,Ovation,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20S,Eagle,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-22,,,1,Piston,LandPlane,L1P,L,M22,G
+MOONEY,M-22,Mustang,,1,Piston,LandPlane,L1P,L,M22,G
+MOONEY,,Mark 21,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,,Master,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,,Mite,,1,Piston,LandPlane,L1P,L,MITE,G
+MOONEY,,MSE,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,,Mustang,,1,Piston,LandPlane,L1P,L,M22,G
+MOONEY,,Ovation,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,,PFM,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,,Ranger,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,,Statesman,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,,Super 21,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,,TLS,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,,Wee Scotsman,,1,Piston,LandPlane,L1P,L,MITE,G
+MOONEY,M-20TN Acclaim,,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,Acclaim,,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,M-20U Ovation Ultra,,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,Ovation Ultra,,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20R Ovation 2,,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,Ovation 2,,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20R Ovation 3,,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,Ovation 3,,,1,Piston,LandPlane,L1P,L,M20P,G
+MOONEY,M-20V Acclaim Ultra,,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,Acclaim Ultra,,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,M-20TN Acclaim Type S,,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,Acclaim Type S,,,1,Piston,LandPlane,L1P,L,M20T,G
+MOONEY,M-10J,,,1,Piston,LandPlane,L1P,L,M10R,G
+MOONEY,M-10T,,,1,Piston,LandPlane,L1P,L,M10F,G

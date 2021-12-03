@@ -1,0 +1,19 @@
+manufacturer_code,model_no,model_name,model_version,engine_count,engine_type,aircraft_desc,description,wtc,tdesig,wtg
+ATR,ATR-42-600,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT46,F
+ATR,ATR-72-201,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT72,F
+ATR,ATR-72-202,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT72,F
+ATR,ATR-72-211,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT73,F
+ATR,ATR-72-500,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT75,F
+ATR,ATR-72-600,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT76,F
+ATR,ATR-42-300,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT43,F
+ATR,ATR-42-320,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT43,F
+ATR,ATR-42-400,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT44,F
+ATR,ATR-42-400,Surveyor,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT44,F
+ATR,ATR-42-500,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT45,F
+ATR,ATR-42-500,Surveyor,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT45,F
+ATR,,Surveyor (ATR-42-400),,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT44,F
+ATR,,Surveyor (ATR-42-500),,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT45,F
+ATR,ATR-72-212,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT73,F
+ATR,ATR-72-212A (500),,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT75,F
+ATR,ATR-72-212A (600),,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT76,F
+ATR,ATR P-72,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,AT76,F

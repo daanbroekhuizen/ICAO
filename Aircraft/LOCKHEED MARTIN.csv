@@ -1,0 +1,34 @@
+manufacturer_code,model_no,model_name,model_version,engine_count,engine_type,aircraft_desc,description,wtc,tdesig,wtg
+LOCKHEED MARTIN,C-130H,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED MARTIN,,Desert Falcon,,1,Jet,LandPlane,L1J,M,F16,F
+LOCKHEED MARTIN,F-16 ,Sufa,,1,Jet,LandPlane,L1J,M,F16,F
+LOCKHEED MARTIN,F-16,Desert Falcon,,1,Jet,LandPlane,L1J,M,F16,F
+LOCKHEED MARTIN,F-16,Fighting Falcon,,1,Jet,LandPlane,L1J,M,F16,F
+LOCKHEED MARTIN,F-22,Raptor,,2,Jet,LandPlane,L2J,M,F22,F
+LOCKHEED MARTIN,,Fighting Falcon,,1,Jet,LandPlane,L1J,M,F16,F
+LOCKHEED MARTIN,L-285,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED MARTIN,L-645,Raptor,,2,Jet,LandPlane,L2J,M,F22,F
+LOCKHEED MARTIN,LC-130,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED MARTIN,,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED MARTIN,P-3,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED MARTIN,,Raptor,,2,Jet,LandPlane,L2J,M,F22,F
+LOCKHEED MARTIN,,Sufa,,1,Jet,LandPlane,L1J,M,F16,F
+LOCKHEED MARTIN,F-35A,Lightning 2,,1,Jet,LandPlane,L1J,M,F35,F
+LOCKHEED MARTIN,F-35B,Lightning 2,,1,Jet,LandPlane,L1J,M,VF35,F
+LOCKHEED MARTIN,F-35C,Lightning 2,,1,Jet,LandPlane,L1J,M,F35,F
+LOCKHEED MARTIN,,Lightning 2 (F-35A/C),,1,Jet,LandPlane,L1J,M,F35,F
+LOCKHEED MARTIN,,Lightning 2 (F-35B),,1,Jet,LandPlane,L1J,M,VF35,F
+LOCKHEED MARTIN,382C,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED MARTIN,,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED MARTIN,382J,Super Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C30J,D
+LOCKHEED MARTIN,382U,Super Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C30J,D
+LOCKHEED MARTIN,382V,Super Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C30J,D
+LOCKHEED MARTIN,C-130J,Super Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C30J,D
+LOCKHEED MARTIN,CC-130J,Super Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C30J,D
+LOCKHEED MARTIN,EC-130J,Super Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C30J,D
+LOCKHEED MARTIN,HC-130J,Super Hercules ,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C30J,D
+LOCKHEED MARTIN,KC-130J,Super Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C30J,D
+LOCKHEED MARTIN,MC-130J,Super Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C30J,D
+LOCKHEED MARTIN,WC-130J,Super Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C30J,D
+LOCKHEED MARTIN,LM-100J,Super Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C30J,D
+LOCKHEED MARTIN,,Super Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C30J,D

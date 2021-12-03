@@ -1,0 +1,13 @@
+manufacturer_code,model_no,model_name,model_version,engine_count,engine_type,aircraft_desc,description,wtc,tdesig,wtg
+ROBINSON,R-66,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,R66,G
+ROBINSON,,Astro,,1,Piston,Helicopter,H1P,L,R44,G
+ROBINSON,,Beta,,1,Piston,Helicopter,H1P,L,R22,G
+ROBINSON,,Clipper,,1,Piston,Helicopter,H1P,L,R44,G
+ROBINSON,,Mariner,,1,Piston,Helicopter,H1P,L,R22,G
+ROBINSON,R-22,,,1,Piston,Helicopter,H1P,L,R22,G
+ROBINSON,R-22,Beta,,1,Piston,Helicopter,H1P,L,R22,G
+ROBINSON,R-22,Mariner,,1,Piston,Helicopter,H1P,L,R22,G
+ROBINSON,R-44,Astro,,1,Piston,Helicopter,H1P,L,R44,G
+ROBINSON,R-44,Clipper,,1,Piston,Helicopter,H1P,L,R44,G
+ROBINSON,R-44,Raven,,1,Piston,Helicopter,H1P,L,R44,G
+ROBINSON,,Raven,,1,Piston,Helicopter,H1P,L,R44,G

@@ -1,0 +1,157 @@
+manufacturer_code,model_no,model_name,model_version,engine_count,engine_type,aircraft_desc,description,wtc,tdesig,wtg
+LOCKHEED,Super Galaxy,,,4,Jet,LandPlane,L4J,H,C5M,B
+LOCKHEED,AC-130,Spectre,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,AP-3,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,,Arcturus,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,AT-33,,,1,Jet,LandPlane,L1J,M,T33,G
+LOCKHEED,,Aurora,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,,Aya,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,B-34,Lexington,,2,Piston,LandPlane,L2P,M,L37,G
+LOCKHEED,C-40,Electra Junior,,2,Piston,LandPlane,L2P,L,L12,G
+LOCKHEED,C-56,Lodestar,,2,Piston,LandPlane,L2P,M,L18,G
+LOCKHEED,C-57,Lodestar,,2,Piston,LandPlane,L2P,M,L18,G
+LOCKHEED,C-59,Lodestar,,2,Piston,LandPlane,L2P,M,L18,G
+LOCKHEED,C-60,Lodestar,,2,Piston,LandPlane,L2P,M,L18,G
+LOCKHEED,C-121,Constellation,,4,Piston,LandPlane,L4P,M,CONI,D
+LOCKHEED,C-130,Karnaf,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,C-130A,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,C-130B,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,C-130E,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,C-130F,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,C-130H,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,C-130K,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,C-141,Starlifter,,4,Jet,LandPlane,L4J,H,C141,C
+LOCKHEED,CC-130,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,,Constellation,,4,Piston,LandPlane,L4P,M,CONI,D
+LOCKHEED,CP-140,Arcturus,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,CP-140,Aurora,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,DC-130,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,EC-121,Constellation,,4,Piston,LandPlane,L4P,M,CONI,D
+LOCKHEED,EC-130,Aya,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,EC-130,Sapeer,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,EC-130E,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,EC-130G,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,EC-130H,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,EC-130Q,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,,Electra (L-10),,2,Piston,LandPlane,L2P,L,L10,G
+LOCKHEED,,Electra (L-188),,4,Turboprop/Turboshaft,LandPlane,L4T,M,L188,E
+LOCKHEED,,Electra Junior,,2,Piston,LandPlane,L2P,L,L12,G
+LOCKHEED,EP-3,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,ER-2,,,1,Jet,LandPlane,L1J,M,U2,G
+LOCKHEED,F-5,Lightning,,2,Piston,LandPlane,L2P,M,P38,G
+LOCKHEED,F-16,Fighting Falcon,,1,Jet,LandPlane,L1J,M,F16,F
+LOCKHEED,F-104,Starfighter,,1,Jet,LandPlane,L1J,M,F104,G
+LOCKHEED,F-117,Nighthawk,,2,Jet,LandPlane,L2J,M,F117,F
+LOCKHEED,,Fighting Falcon,,1,Jet,LandPlane,L1J,M,F16,F
+LOCKHEED,,Harpoon,,2,Piston,LandPlane,L2P,M,L37,G
+LOCKHEED,HC-130,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,,Hercules (T-56 engines),,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,,Hudson,,2,Piston,LandPlane,L2P,M,L14,G
+LOCKHEED,JC-130,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,,Jetstar 2,,4,Jet,LandPlane,L4J,M,L29B,F
+LOCKHEED,,Jetstar 6,,4,Jet,LandPlane,L4J,M,L29A,F
+LOCKHEED,,Jetstar 8,,4,Jet,LandPlane,L4J,M,L29A,F
+LOCKHEED,,Jetstar 731,,4,Jet,LandPlane,L4J,M,L29B,F
+LOCKHEED,JO,Electra Junior,,2,Piston,LandPlane,L2P,L,L12,G
+LOCKHEED,,Karnaf,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,KC-130,Karnaf,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,KC-130B,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,KC-130F,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,KC-130H,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,KC-130R,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,KC-130T,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,L-10,Electra,,2,Piston,LandPlane,L2P,L,L10,G
+LOCKHEED,L-12,Electra Junior,,2,Piston,LandPlane,L2P,L,L12,G
+LOCKHEED,L-14,Hudson,,2,Piston,LandPlane,L2P,M,L14,G
+LOCKHEED,L-14,Super Electra,,2,Piston,LandPlane,L2P,M,L14,G
+LOCKHEED,L-15,Harpoon,,2,Piston,LandPlane,L2P,M,L37,G
+LOCKHEED,L-18,Lodestar,,2,Piston,LandPlane,L2P,M,L18,G
+LOCKHEED,L-049,Constellation,,4,Piston,LandPlane,L4P,M,CONI,D
+LOCKHEED,L-100,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,L-137,Ventura,,2,Piston,LandPlane,L2P,M,L37,G
+LOCKHEED,L-185,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,L-188,Electra,,4,Turboprop/Turboshaft,LandPlane,L4T,M,L188,E
+LOCKHEED,L-222,Lightning,,2,Piston,LandPlane,L2P,M,P38,G
+LOCKHEED,L-237,Ventura,,2,Piston,LandPlane,L2P,M,L37,G
+LOCKHEED,L-285,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,L-300,Starlifter,,4,Jet,LandPlane,L4J,H,C141,C
+LOCKHEED,L-322,Lightning,,2,Piston,LandPlane,L2P,M,P38,G
+LOCKHEED,L-394,Viking,,2,Jet,LandPlane,L2J,M,S3,F
+LOCKHEED,L-422,Lightning,,2,Piston,LandPlane,L2P,M,P38,G
+LOCKHEED,L-426,Neptune,,2,Piston,LandPlane,L2P,M,P2,E
+LOCKHEED,L-580,Shooting Star,,1,Jet,LandPlane,L1J,M,T33,G
+LOCKHEED,L-580,T-Bird,,1,Jet,LandPlane,L1J,M,T33,G
+LOCKHEED,L-583,Starfighter,,1,Jet,LandPlane,L1J,M,F104,G
+LOCKHEED,L-683,Starfighter,,1,Jet,LandPlane,L1J,M,F104,G
+LOCKHEED,L-685,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,L-726,Neptune,,2,Piston,LandPlane,L2P,M,P2,E
+LOCKHEED,L-749,Constellation,,4,Piston,LandPlane,L4P,M,CONI,D
+LOCKHEED,L-785,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,L-826,Neptune,,2,Piston,LandPlane,L2P,M,P2,E
+LOCKHEED,L-1011,TriStar,,3,Jet,LandPlane,L3J,H,L101,C
+LOCKHEED,L-1049,Super Constellation,,4,Piston,LandPlane,L4P,M,CONI,D
+LOCKHEED,L-1329,Jetstar 2,,4,Jet,LandPlane,L4J,M,L29B,F
+LOCKHEED,L-1329,Jetstar 6,,4,Jet,LandPlane,L4J,M,L29A,F
+LOCKHEED,L-1329,Jetstar 8,,4,Jet,LandPlane,L4J,M,L29A,F
+LOCKHEED,L-1329,Jetstar 731,,4,Jet,LandPlane,L4J,M,L29B,F
+LOCKHEED,LASA-60,,,1,Piston,LandPlane,L1P,L,LA60,G
+LOCKHEED,LC-130,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,,Lightning,,2,Piston,LandPlane,L2P,M,P38,G
+LOCKHEED,,Lodestar,,2,Piston,LandPlane,L2P,M,L18,G
+LOCKHEED,MC-130,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,NC-130,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,,Neptune,,2,Piston,LandPlane,L2P,M,P2,E
+LOCKHEED,,Nighthawk,,2,Jet,LandPlane,L2J,M,F117,F
+LOCKHEED,NP-3,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,NT-33,,,1,Jet,LandPlane,L1J,M,T33,G
+LOCKHEED,,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,P-2,Neptune,,2,Piston,LandPlane,L2P,M,P2,E
+LOCKHEED,P2V,Neptune,,2,Piston,LandPlane,L2P,M,P2,E
+LOCKHEED,P-3,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,P-38,Lightning,,2,Piston,LandPlane,L2P,M,P38,G
+LOCKHEED,PV-1,Ventura,,2,Piston,LandPlane,L2P,M,L37,G
+LOCKHEED,PV-2,Harpoon,,2,Piston,LandPlane,L2P,M,L37,G
+LOCKHEED,R5O,Lodestar,,2,Piston,LandPlane,L2P,M,L18,G
+LOCKHEED,R7V,Constellation,,4,Piston,LandPlane,L4P,M,CONI,D
+LOCKHEED,RC-121,Constellation,,4,Piston,LandPlane,L4P,M,CONI,D
+LOCKHEED,RC-130,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,RF-104,Starfighter,,1,Jet,LandPlane,L1J,M,F104,G
+LOCKHEED,RP-3,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,RT-33,,,1,Jet,LandPlane,L1J,M,T33,G
+LOCKHEED,S-3,Viking,,2,Jet,LandPlane,L2J,M,S3,F
+LOCKHEED,,Sapeer,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,,Shooting Star,,1,Jet,LandPlane,L1J,M,T33,G
+LOCKHEED,SP-2,Neptune,,2,Piston,LandPlane,L2P,M,P2,E
+LOCKHEED,,Spectre,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,,Starfighter,,1,Jet,LandPlane,L1J,M,F104,G
+LOCKHEED,,Starlifter,,4,Jet,LandPlane,L4J,H,C141,C
+LOCKHEED,,Super Constellation,,4,Piston,LandPlane,L4P,M,CONI,D
+LOCKHEED,,Super Electra,,2,Piston,LandPlane,L2P,M,L14,G
+LOCKHEED,T-33,Shooting Star,,1,Jet,LandPlane,L1J,M,T33,G
+LOCKHEED,T-33,T-Bird,,1,Jet,LandPlane,L1J,M,T33,G
+LOCKHEED,,T-Bird,,1,Jet,LandPlane,L1J,M,T33,G
+LOCKHEED,TC-130,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,TF-104,Starfighter,,1,Jet,LandPlane,L1J,M,F104,G
+LOCKHEED,TP-3,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,Tp84,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,,TriStar,,3,Jet,LandPlane,L3J,H,L101,C
+LOCKHEED,U-2,,,1,Jet,LandPlane,L1J,M,U2,G
+LOCKHEED,UP-3,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,VC-121,Constellation,,4,Piston,LandPlane,L4P,M,CONI,D
+LOCKHEED,VC-130,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,,Ventura,,2,Piston,LandPlane,L2P,M,L37,G
+LOCKHEED,,Viking,,2,Jet,LandPlane,L2J,M,S3,F
+LOCKHEED,VP-3,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,,Warning Star,,4,Piston,LandPlane,L4P,M,CONI,D
+LOCKHEED,WC-130E,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,WC-130H,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,WP-3,Orion,,4,Turboprop/Turboshaft,LandPlane,L4T,M,P3,E
+LOCKHEED,WV,Warning Star,,4,Piston,LandPlane,L4P,M,CONI,D
+LOCKHEED,XR2O,Electra,,2,Piston,LandPlane,L2P,L,L10,G
+LOCKHEED,XR5O,Lodestar,,2,Piston,LandPlane,L2P,M,L18,G
+LOCKHEED,YF-117 Nighthawk,,,2,Jet,LandPlane,L2J,M,F117,F
+LOCKHEED,YO-3,,,1,Piston,LandPlane,L1P,L,O3,G
+LOCKHEED,C-5,Super Galaxy,,4,Jet,LandPlane,L4J,H,C5M,B
+LOCKHEED,182,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,282,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D
+LOCKHEED,382,Hercules,,4,Turboprop/Turboshaft,LandPlane,L4T,M,C130,D

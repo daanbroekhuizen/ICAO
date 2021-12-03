@@ -1,0 +1,302 @@
+manufacturer_code,model_no,model_name,model_version,engine_count,engine_type,aircraft_desc,description,wtc,tdesig,wtg
+CESSNA,525 Citation M2,,,2,Jet,LandPlane,L2J,L,C25M,G
+CESSNA,Citation M2,,,2,Jet,LandPlane,L2J,L,C25M,G
+CESSNA,350,,,1,Piston,LandPlane,L1P,L,COL3,G
+CESSNA,LC-42,,,1,Piston,LandPlane,L1P,L,COL3,G
+CESSNA,LC-42 Corvalis,,,1,Piston,LandPlane,L1P,L,COL3,G
+CESSNA,400,,,1,Piston,LandPlane,L1P,L,COL4,G
+CESSNA,350 Corvalis,,,1,Piston,LandPlane,L1P,L,COL3,G
+CESSNA,LC-41,,,1,Piston,LandPlane,L1P,L,COL4,G
+CESSNA,LC-41 Corvalis TT,,,1,Piston,LandPlane,L1P,L,COL4,G
+CESSNA,400 Corvalis TT,,,1,Piston,LandPlane,L1P,L,COL4,G
+CESSNA,Corvalis,,,1,Piston,LandPlane,L1P,L,COL3,G
+CESSNA,Corvalis TT,,,1,Piston,LandPlane,L1P,L,COL4,G
+CESSNA,120,,,1,Piston,LandPlane,L1P,L,C120,G
+CESSNA,140,,,1,Piston,LandPlane,L1P,L,C140,G
+CESSNA,150,,,1,Piston,LandPlane,L1P,L,C150,G
+CESSNA,150,Commuter,,1,Piston,LandPlane,L1P,L,C150,G
+CESSNA,152,,,1,Piston,LandPlane,L1P,L,C152,G
+CESSNA,170,,,1,Piston,LandPlane,L1P,L,C170,G
+CESSNA,172,,,1,Piston,LandPlane,L1P,L,C172,G
+CESSNA,172,Cutlass,,1,Piston,LandPlane,L1P,L,C172,G
+CESSNA,172,Skyhawk,,1,Piston,LandPlane,L1P,L,C172,G
+CESSNA,172RG,Cutlass RG,,1,Piston,LandPlane,L1P,L,C72R,G
+CESSNA,175,,,1,Piston,LandPlane,L1P,L,C175,G
+CESSNA,175,Skylark,,1,Piston,LandPlane,L1P,L,C175,G
+CESSNA,177,,,1,Piston,LandPlane,L1P,L,C177,G
+CESSNA,177,Cardinal,,1,Piston,LandPlane,L1P,L,C177,G
+CESSNA,177RG,Cardinal RG,,1,Piston,LandPlane,L1P,L,C77R,G
+CESSNA,180,,,1,Piston,LandPlane,L1P,L,C180,G
+CESSNA,162 Skycatcher,,,1,Piston,LandPlane,L1P,L,C162,G
+CESSNA,180,Skywagon 180,,1,Piston,LandPlane,L1P,L,C180,G
+CESSNA,182,,,1,Piston,LandPlane,L1P,L,C182,G
+CESSNA,182,Skylane,,1,Piston,LandPlane,L1P,L,C182,G
+CESSNA,185,Skywagon,,1,Piston,LandPlane,L1P,L,C185,G
+CESSNA,188,AgPickup,,1,Piston,LandPlane,L1P,L,C188,G
+CESSNA,188,AgWagon,,1,Piston,LandPlane,L1P,L,C188,G
+CESSNA,190,,,1,Piston,LandPlane,L1P,L,C190,G
+CESSNA,195,,,1,Piston,LandPlane,L1P,L,C195,G
+CESSNA,205,,,1,Piston,LandPlane,L1P,L,C205,G
+CESSNA,206 (turbine),,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C06T,G
+CESSNA,206,Stationair,,1,Piston,LandPlane,L1P,L,C206,G
+CESSNA,206,Super Skywagon,,1,Piston,LandPlane,L1P,L,C206,G
+CESSNA,207 (turbine),,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C07T,G
+CESSNA,207,Skywagon 207,,1,Piston,LandPlane,L1P,L,C207,G
+CESSNA,207,Stationair 7,,1,Piston,LandPlane,L1P,L,C207,G
+CESSNA,207,Stationair 8,,1,Piston,LandPlane,L1P,L,C207,G
+CESSNA,208,Caravan 1,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C208,G
+CESSNA,208,Cargomaster,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C208,G
+CESSNA,208,Grand Caravan,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C208,G
+CESSNA,208,Super Cargomaster,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C208,G
+CESSNA,210,,,1,Piston,LandPlane,L1P,L,C210,G
+CESSNA,210,Centurion,,1,Piston,LandPlane,L1P,L,C210,G
+CESSNA,305,Bird Dog,,1,Piston,LandPlane,L1P,L,O1,G
+CESSNA,310,,,2,Piston,LandPlane,L2P,L,C310,G
+CESSNA,318A,,,2,Jet,LandPlane,L2J,L,T37,G
+CESSNA,318B,,,2,Jet,LandPlane,L2J,L,T37,G
+CESSNA,318C,,,2,Jet,LandPlane,L2J,L,T37,G
+CESSNA,318D,Dragonfly,,2,Jet,LandPlane,L2J,L,A37,G
+CESSNA,318E,Dragonfly,,2,Jet,LandPlane,L2J,L,A37,G
+CESSNA,320,Executive Skyknight,,2,Piston,LandPlane,L2P,L,C320,G
+CESSNA,320,Skyknight,,2,Piston,LandPlane,L2P,L,C320,G
+CESSNA,321,Bird Dog,,1,Piston,LandPlane,L1P,L,O1,G
+CESSNA,335,,,2,Piston,LandPlane,L2P,L,C335,G
+CESSNA,336,Skymaster,,2,Piston,LandPlane,L2P,L,C336,G
+CESSNA,337,Super Skymaster,,2,Piston,LandPlane,L2P,L,C337,G
+CESSNA,340,,,2,Piston,LandPlane,L2P,L,C340,G
+CESSNA,401,,,2,Piston,LandPlane,L2P,L,C402,G
+CESSNA,402,,,2,Piston,LandPlane,L2P,L,C402,G
+CESSNA,402 (turbine),,,2,Turboprop/Turboshaft,LandPlane,L2T,L,C02T,G
+CESSNA,402,Businessliner,,2,Piston,LandPlane,L2P,L,C402,G
+CESSNA,402,Utililiner,,2,Piston,LandPlane,L2P,L,C402,G
+CESSNA,404 (turbine),,,2,Turboprop/Turboshaft,LandPlane,L2T,L,C04T,G
+CESSNA,404,Titan,,2,Piston,LandPlane,L2P,L,C404,G
+CESSNA,411,,,2,Piston,LandPlane,L2P,L,C411,G
+CESSNA,414,,,2,Piston,LandPlane,L2P,L,C414,G
+CESSNA,414 (turbine),,,2,Turboprop/Turboshaft,LandPlane,L2T,L,C14T,G
+CESSNA,414,Chancellor,,2,Piston,LandPlane,L2P,L,C414,G
+CESSNA,421,,,2,Piston,LandPlane,L2P,L,C421,G
+CESSNA,421 (turbine),,,2,Turboprop/Turboshaft,LandPlane,L2T,L,C21T,G
+CESSNA,421,Executive Commuter,,2,Piston,LandPlane,L2P,L,C421,G
+CESSNA,421,Golden Eagle,,2,Piston,LandPlane,L2P,L,C421,G
+CESSNA,425,Conquest 1,,2,Turboprop/Turboshaft,LandPlane,L2T,L,C425,G
+CESSNA,425,Corsair,,2,Turboprop/Turboshaft,LandPlane,L2T,L,C425,G
+CESSNA,441,Conquest,,2,Turboprop/Turboshaft,LandPlane,L2T,L,C441,G
+CESSNA,441,Conquest 2,,2,Turboprop/Turboshaft,LandPlane,L2T,L,C441,G
+CESSNA,500,Citation,,2,Jet,LandPlane,L2J,L,C500,G
+CESSNA,500,Citation 1,,2,Jet,LandPlane,L2J,L,C500,G
+CESSNA,501,Citation 1SP,,2,Jet,LandPlane,L2J,L,C501,G
+CESSNA,510,Citation Mustang,,2,Jet,LandPlane,L2J,L,C510,G
+CESSNA,525,Citation CJ1,,2,Jet,LandPlane,L2J,L,C525,G
+CESSNA,525,CitationJet,,2,Jet,LandPlane,L2J,L,C525,G
+CESSNA,525A,Citation CJ2,,2,Jet,LandPlane,L2J,L,C25A,G
+CESSNA,525B,Citation CJ3,,2,Jet,LandPlane,L2J,L,C25B,G
+CESSNA,525C Citation CJ4,,,2,Jet,LandPlane,L2J,M,C25C,G
+CESSNA,526,CitationJet,,2,Jet,LandPlane,L2J,L,C526,G
+CESSNA,550,Citation 2,,2,Jet,LandPlane,L2J,L,C550,G
+CESSNA,551,Citation 2SP,,2,Jet,LandPlane,L2J,L,C551,G
+CESSNA,560,Citation 5,,2,Jet,LandPlane,L2J,M,C560,G
+CESSNA,560,Citation Encore,,2,Jet,LandPlane,L2J,M,C560,G
+CESSNA,550B Citation Bravo,,,2,Jet,LandPlane,L2J,L,C55B,G
+CESSNA,Citation Bravo,,,2,Jet,LandPlane,L2J,L,C55B,G
+CESSNA,560,Citation Ultra,,2,Jet,LandPlane,L2J,M,C560,G
+CESSNA,560XL,Citation Excel,,2,Jet,LandPlane,L2J,M,C56X,G
+CESSNA,560XL,Citation XLS,,2,Jet,LandPlane,L2J,M,C56X,G
+CESSNA,650,Citation 3,,2,Jet,LandPlane,L2J,M,C650,G
+CESSNA,650,Citation 6,,2,Jet,LandPlane,L2J,M,C650,G
+CESSNA,650,Citation 7,,2,Jet,LandPlane,L2J,M,C650,G
+CESSNA,680,Citation Sovereign,,2,Jet,LandPlane,L2J,M,C680,G
+CESSNA,750,Citation 10,,2,Jet,LandPlane,L2J,M,C750,G
+CESSNA,A-37,Dragonfly,,2,Jet,LandPlane,L2J,L,A37,G
+CESSNA,A150,Aerobat,,1,Piston,LandPlane,L1P,L,C150,G
+CESSNA,A152,Aerobat,,1,Piston,LandPlane,L1P,L,C152,G
+CESSNA,A185,AgCarryall,,1,Piston,LandPlane,L1P,L,C185,G
+CESSNA,A185,Skywagon 185,,1,Piston,LandPlane,L1P,L,C185,G
+CESSNA,A188,AgTruck,,1,Piston,LandPlane,L1P,L,C188,G
+CESSNA,A188,AgWagon,,1,Piston,LandPlane,L1P,L,C188,G
+CESSNA,,Aerobat (A150),,1,Piston,LandPlane,L1P,L,C150,G
+CESSNA,,Aerobat (A152),,1,Piston,LandPlane,L1P,L,C152,G
+CESSNA,,AgCarryall,,1,Piston,LandPlane,L1P,L,C185,G
+CESSNA,,AgHusky,,1,Piston,LandPlane,L1P,L,C188,G
+CESSNA,,AgPickup,,1,Piston,LandPlane,L1P,L,C188,G
+CESSNA,,AgTruck,,1,Piston,LandPlane,L1P,L,C188,G
+CESSNA,,AgWagon,,1,Piston,LandPlane,L1P,L,C188,G
+CESSNA,,Airmaster,,1,Piston,LandPlane,L1P,L,CMAS,G
+CESSNA,AT-8,Bobcat,,2,Piston,LandPlane,L2P,L,T50,G
+CESSNA,AT-17,Bobcat,,2,Piston,LandPlane,L2P,L,T50,G
+CESSNA,AW,,,1,Piston,LandPlane,L1P,L,CAW,G
+CESSNA,,Bird Dog,,1,Piston,LandPlane,L1P,L,O1,G
+CESSNA,,Bobcat,,2,Piston,LandPlane,L2P,L,T50,G
+CESSNA,,Businessliner,,2,Piston,LandPlane,L2P,L,C402,G
+CESSNA,C-34,,,1,Piston,LandPlane,L1P,L,CMAS,G
+CESSNA,C-37,,,1,Piston,LandPlane,L1P,L,CMAS,G
+CESSNA,C-38,Airmaster,,1,Piston,LandPlane,L1P,L,CMAS,G
+CESSNA,C-98,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C208,G
+CESSNA,C-145,Airmaster,,1,Piston,LandPlane,L1P,L,CMAS,G
+CESSNA,C-165,Airmaster,,1,Piston,LandPlane,L1P,L,CMAS,G
+CESSNA,,Caravan 1,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C208,G
+CESSNA,,Caravan 2,,2,Turboprop/Turboshaft,LandPlane,L2T,L,F406,G
+CESSNA,,Cardinal,,1,Piston,LandPlane,L1P,L,C177,G
+CESSNA,,Cardinal RG,,1,Piston,LandPlane,L1P,L,C77R,G
+CESSNA,,Cargomaster,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C208,G
+CESSNA,,Centurion,,1,Piston,LandPlane,L1P,L,C210,G
+CESSNA,,Chancellor,,2,Piston,LandPlane,L2P,L,C414,G
+CESSNA,,Citation,,2,Jet,LandPlane,L2J,L,C500,G
+CESSNA,,Citation 1,,2,Jet,LandPlane,L2J,L,C500,G
+CESSNA,,Citation 1SP,,2,Jet,LandPlane,L2J,L,C501,G
+CESSNA,,Citation 2,,2,Jet,LandPlane,L2J,L,C550,G
+CESSNA,,Citation 2SP,,2,Jet,LandPlane,L2J,L,C551,G
+CESSNA,,Citation 3,,2,Jet,LandPlane,L2J,M,C650,G
+CESSNA,,Citation 5,,2,Jet,LandPlane,L2J,M,C560,G
+CESSNA,,Citation 6,,2,Jet,LandPlane,L2J,M,C650,G
+CESSNA,,Citation 7,,2,Jet,LandPlane,L2J,M,C650,G
+CESSNA,,Citation 10,,2,Jet,LandPlane,L2J,M,C750,G
+CESSNA,,Citation CJ1,,2,Jet,LandPlane,L2J,L,C525,G
+CESSNA,,Citation CJ2,,2,Jet,LandPlane,L2J,L,C25A,G
+CESSNA,,Citation CJ3,,2,Jet,LandPlane,L2J,L,C25B,G
+CESSNA,Citation CJ4,,,2,Jet,LandPlane,L2J,M,C25C,G
+CESSNA,,Citation Encore,,2,Jet,LandPlane,L2J,M,C560,G
+CESSNA,,Citation Excel,,2,Jet,LandPlane,L2J,M,C56X,G
+CESSNA,,Citation Mustang,,2,Jet,LandPlane,L2J,L,C510,G
+CESSNA,,Citation S2,,2,Jet,LandPlane,L2J,L,C550,G
+CESSNA,,Citation Sovereign,,2,Jet,LandPlane,L2J,M,C680,G
+CESSNA,,Citation Ultra,,2,Jet,LandPlane,L2J,M,C560,G
+CESSNA,,Citation XLS,,2,Jet,LandPlane,L2J,M,C56X,G
+CESSNA,,CitationJet (525),,2,Jet,LandPlane,L2J,L,C525,G
+CESSNA,,CitationJet (526),,2,Jet,LandPlane,L2J,L,C526,G
+CESSNA,,Commuter,,1,Piston,LandPlane,L1P,L,C150,G
+CESSNA,,Conquest,,2,Turboprop/Turboshaft,LandPlane,L2T,L,C441,G
+CESSNA,,Conquest 1,,2,Turboprop/Turboshaft,LandPlane,L2T,L,C425,G
+CESSNA,,Conquest 2,,2,Turboprop/Turboshaft,LandPlane,L2T,L,C441,G
+CESSNA,,Corsair,,2,Turboprop/Turboshaft,LandPlane,L2T,L,C425,G
+CESSNA,,Crane,,2,Piston,LandPlane,L2P,L,T50,G
+CESSNA,,Crusader,,2,Piston,LandPlane,L2P,L,C303,G
+CESSNA,,Cutlass,,1,Piston,LandPlane,L1P,L,C172,G
+CESSNA,,Cutlass RG,,1,Piston,LandPlane,L1P,L,C72R,G
+CESSNA,DC-6,,,1,Piston,LandPlane,L1P,L,CDC6,G
+CESSNA,,Dragonfly,,2,Jet,LandPlane,L2J,L,A37,G
+CESSNA,,Executive Commuter,,2,Piston,LandPlane,L2P,L,C421,G
+CESSNA,,Executive Skyknight,,2,Piston,LandPlane,L2P,L,C320,G
+CESSNA,F406,Caravan 2,,2,Turboprop/Turboshaft,LandPlane,L2T,L,F406,G
+CESSNA,F406,Vigilant,,2,Turboprop/Turboshaft,LandPlane,L2T,L,F406,G
+CESSNA,,Golden Eagle,,2,Piston,LandPlane,L2P,L,C421,G
+CESSNA,,Grand Caravan,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C208,G
+CESSNA,,Hawk XP,,1,Piston,LandPlane,L1P,L,C172,G
+CESSNA,L-19,Bird Dog,,1,Piston,LandPlane,L1P,L,O1,G
+CESSNA,L-27,,,2,Piston,LandPlane,L2P,L,C310,G
+CESSNA,LC-126,,,1,Piston,LandPlane,L1P,L,C195,G
+CESSNA,M337,Super Skymaster,,2,Piston,LandPlane,L2P,L,C337,G
+CESSNA,MC337,Super Skymaster,,2,Piston,LandPlane,L2P,L,C337,G
+CESSNA,,Mescalero,,1,Piston,LandPlane,L1P,L,C172,G
+CESSNA,NGP,,,1,Piston,LandPlane,L1P,L,CNGP,G
+CESSNA,O-1,Bird Dog,,1,Piston,LandPlane,L1P,L,O1,G
+CESSNA,O-2,Super Skymaster,,2,Piston,LandPlane,L2P,L,C337,G
+CESSNA,Skycatcher,,,1,Piston,LandPlane,L1P,L,C162,G
+CESSNA,OA-37,Dragonfly,,2,Jet,LandPlane,L2J,L,A37,G
+CESSNA,OE,Bird Dog,,1,Piston,LandPlane,L1P,L,O1,G
+CESSNA,OT-47,Citation Ultra,,2,Jet,LandPlane,L2J,M,C560,G
+CESSNA,P172,Skyhawk Powermatic,,1,Piston,LandPlane,L1P,L,C172,G
+CESSNA,P206,Super Skylane,,1,Piston,LandPlane,L1P,L,C206,G
+CESSNA,P210 (turbine),,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C10T,G
+CESSNA,P210,Pressurized Centurion,,1,Piston,LandPlane,L1P,L,P210,G
+CESSNA,P337,Pressurized Skymaster,,2,Piston,LandPlane,L2P,L,P337,G
+CESSNA,,Pressurized Centurion,,1,Piston,LandPlane,L1P,L,P210,G
+CESSNA,,Pressurized Skymaster,,2,Piston,LandPlane,L2P,L,P337,G
+CESSNA,R172,,,1,Piston,LandPlane,L1P,L,C172,G
+CESSNA,R172,Hawk XP,,1,Piston,LandPlane,L1P,L,C172,G
+CESSNA,R182,Skylane RG,,1,Piston,LandPlane,L1P,L,C82R,G
+CESSNA,S550,Citation S2,,2,Jet,LandPlane,L2J,L,C550,G
+CESSNA,,Skyhawk,,1,Piston,LandPlane,L1P,L,C172,G
+CESSNA,,Skyhawk Powermatic,,1,Piston,LandPlane,L1P,L,C172,G
+CESSNA,,Skyknight,,2,Piston,LandPlane,L2P,L,C320,G
+CESSNA,,Skylane,,1,Piston,LandPlane,L1P,L,C182,G
+CESSNA,,Skylane RG,,1,Piston,LandPlane,L1P,L,C82R,G
+CESSNA,,Skylark,,1,Piston,LandPlane,L1P,L,C175,G
+CESSNA,,Skymaster,,2,Piston,LandPlane,L2P,L,C336,G
+CESSNA,,Skywagon,,1,Piston,LandPlane,L1P,L,C185,G
+CESSNA,,Skywagon 180,,1,Piston,LandPlane,L1P,L,C180,G
+CESSNA,,Skywagon 185,,1,Piston,LandPlane,L1P,L,C185,G
+CESSNA,,Skywagon 206,,1,Piston,LandPlane,L1P,L,C206,G
+CESSNA,,Skywagon 207,,1,Piston,LandPlane,L1P,L,C207,G
+CESSNA,,Stationair,,1,Piston,LandPlane,L1P,L,C206,G
+CESSNA,,Stationair 6,,1,Piston,LandPlane,L1P,L,C206,G
+CESSNA,,Stationair 7,,1,Piston,LandPlane,L1P,L,C207,G
+CESSNA,,Stationair 8,,1,Piston,LandPlane,L1P,L,C207,G
+CESSNA,,Super Cargomaster,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C208,G
+CESSNA,,Super Skylane,,1,Piston,LandPlane,L1P,L,C206,G
+CESSNA,,Super Skymaster,,2,Piston,LandPlane,L2P,L,C337,G
+CESSNA,,Super Skywagon,,1,Piston,LandPlane,L1P,L,C206,G
+CESSNA,T-37,,,2,Jet,LandPlane,L2J,L,T37,G
+CESSNA,T-41,Mescalero,,1,Piston,LandPlane,L1P,L,C172,G
+CESSNA,T-50,Bobcat,,2,Piston,LandPlane,L2P,L,T50,G
+CESSNA,T188,AgHusky,,1,Piston,LandPlane,L1P,L,C188,G
+CESSNA,T207,Turbo Skywagon 207,,1,Piston,LandPlane,L1P,L,C207,G
+CESSNA,T207,Turbo Stationair 7,,1,Piston,LandPlane,L1P,L,C207,G
+CESSNA,T206 Turbo Stationair,,,1,Piston,LandPlane,L1P,L,T206,G
+CESSNA,T206 Stationair TC,,,1,Piston,LandPlane,L1P,L,T206,G
+CESSNA,Turbo Skylane,,,1,Piston,LandPlane,L1P,L,C82S,G
+CESSNA,T207,Turbo Stationair 8,,1,Piston,LandPlane,L1P,L,C207,G
+CESSNA,T303,Crusader,,2,Piston,LandPlane,L2P,L,C303,G
+CESSNA,T310,,,2,Piston,LandPlane,L2P,L,C310,G
+CESSNA,T337B,Turbo Super Skymaster,,2,Piston,LandPlane,L2P,L,C337,G
+CESSNA,T337C,Turbo Super Skymaster,,2,Piston,LandPlane,L2P,L,C337,G
+CESSNA,T337D,Turbo Super Skymaster,,2,Piston,LandPlane,L2P,L,C337,G
+CESSNA,T337E,Turbo Super Skymaster,,2,Piston,LandPlane,L2P,L,C337,G
+CESSNA,T337F,Turbo Super Skymaster,,2,Piston,LandPlane,L2P,L,C337,G
+CESSNA,T337G,Pressurized Skymaster,,2,Piston,LandPlane,L2P,L,P337,G
+CESSNA,T337H,Turbo Super Skymaster,,2,Piston,LandPlane,L2P,L,C337,G
+CESSNA,,Titan,,2,Piston,LandPlane,L2P,L,C404,G
+CESSNA,TL-19,Bird Dog,,1,Piston,LandPlane,L1P,L,O1,G
+CESSNA,TO-1,Bird Dog,,1,Piston,LandPlane,L1P,L,O1,G
+CESSNA,TP206 Turbo Super Skylane,,,1,Piston,LandPlane,L1P,L,T206,G
+CESSNA,TU206 Turbo Super Skywagon,,,1,Piston,LandPlane,L1P,L,T206,G
+CESSNA,TU206 Turbo Skywagon 206,,,1,Piston,LandPlane,L1P,L,T206,G
+CESSNA,TU206 Turbo Stationair,,,1,Piston,LandPlane,L1P,L,T206,G
+CESSNA,TU206 Turbo Stationair 6,,,1,Piston,LandPlane,L1P,L,T206,G
+CESSNA,T210 Turbo Centurion,,,1,Piston,LandPlane,L1P,L,T210,G
+CESSNA,Turbo Centurion,,,1,Piston,LandPlane,L1P,L,T210,G
+CESSNA,T182 Turbo Skylane,,,1,Piston,LandPlane,L1P,L,C82S,G
+CESSNA,,Turbo Skywagon 207,,1,Piston,LandPlane,L1P,L,C207,G
+CESSNA,,Turbo Stationair 7,,1,Piston,LandPlane,L1P,L,C207,G
+CESSNA,,Turbo Stationair 8,,1,Piston,LandPlane,L1P,L,C207,G
+CESSNA,,Turbo Super Skymaster,,2,Piston,LandPlane,L2P,L,C337,G
+CESSNA,U-3,,,2,Piston,LandPlane,L2P,L,C310,G
+CESSNA,U-17A,,,1,Piston,LandPlane,L1P,L,C185,G
+CESSNA,U-17B,,,1,Piston,LandPlane,L1P,L,C185,G
+CESSNA,U-17C,,,1,Piston,LandPlane,L1P,L,C180,G
+CESSNA,U-27,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C208,G
+CESSNA,U206,Skywagon 206,,1,Piston,LandPlane,L1P,L,C206,G
+CESSNA,U206,Stationair,,1,Piston,LandPlane,L1P,L,C206,G
+CESSNA,U206,Stationair 6,,1,Piston,LandPlane,L1P,L,C206,G
+CESSNA,U206,Super Skywagon,,1,Piston,LandPlane,L1P,L,C206,G
+CESSNA,UC-35 Citation Encore,,,2,Jet,LandPlane,L2J,M,C560,G
+CESSNA,UC-35,Citation Ultra,,2,Jet,LandPlane,L2J,M,C560,G
+CESSNA,Stationair TC,,,1,Piston,LandPlane,L1P,L,T206,G
+CESSNA,Turbo Stationair,,,1,Piston,LandPlane,L1P,L,T206,G
+CESSNA,Turbo Super Skylane,,,1,Piston,LandPlane,L1P,L,T206,G
+CESSNA,Turbo Super Skywagon,,,1,Piston,LandPlane,L1P,L,T206,G
+CESSNA,Turbo Skylane RG,,,1,Piston,LandPlane,L1P,L,C82T,G
+CESSNA,UC-78,Bobcat,,2,Piston,LandPlane,L2P,L,T50,G
+CESSNA,,Utililiner,,2,Piston,LandPlane,L2P,L,C402,G
+CESSNA,,Vigilant,,2,Turboprop/Turboshaft,LandPlane,L2T,L,F406,G
+CESSNA,680A Citation Latitude,,,2,Jet,LandPlane,L2J,M,C68A,G
+CESSNA,208 Caravan 675,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C208,G
+CESSNA,T240 Corvalis TTx,,,1,Piston,LandPlane,L1P,L,C240,G
+CESSNA,Corvalis TTx,,,1,Piston,LandPlane,L1P,L,C240,G
+CESSNA,T240 TTx,,,1,Piston,LandPlane,L1P,L,C240,G
+CESSNA,TTx,,,1,Piston,LandPlane,L1P,L,C240,G
+CESSNA,Turbo Skywagon 206,,,1,Piston,LandPlane,L1P,L,T206,G
+CESSNA,Turbo Stationair 6,,,1,Piston,LandPlane,L1P,L,T206,G
+CESSNA,TR182 Turbo Skylane RG,,,1,Piston,LandPlane,L1P,L,C82T,G
+CESSNA,AC-208 Combat Caravan,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C208,G
+CESSNA,Caravan 675,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C208,G
+CESSNA,Combat Caravan,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,C208,G
+CESSNA,Citation Latitude,,,2,Jet,LandPlane,L2J,M,C68A,G
+CESSNA,E350,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,E350,G
+CESSNA,700 Citation Longitude,,,2,Jet,LandPlane,L2J,M,C700,G
+CESSNA,Citation Longitude,,,2,Jet,LandPlane,L2J,M,C700,G
+CESSNA,E530 Scorpion,,,2,Jet,LandPlane,L2J,M,E530,G
+CESSNA,,Scorpion,,2,Jet,LandPlane,L2J,M,E530,G
+CESSNA,T-51,,,1,Piston,LandPlane,L1P,L,C150,G
+CESSNA,408 SkyCourier,,,2,Turboprop/Turboshaft,LandPlane,L2T,M,C408,
+CESSNA,,SkyCourier,,2,Turboprop/Turboshaft,LandPlane,L2T,M,C408,

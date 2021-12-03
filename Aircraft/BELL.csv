@@ -1,0 +1,121 @@
+manufacturer_code,model_no,model_name,model_version,engine_count,engine_type,aircraft_desc,description,wtc,tdesig,wtg
+BELL,47D,,,1,Piston,Helicopter,H1P,L,B47G,G
+BELL,47G,,,1,Piston,Helicopter,H1P,L,B47G,G
+BELL,47G,Trooper,,1,Piston,Helicopter,H1P,L,B47G,G
+BELL,47H,,,1,Piston,Helicopter,H1P,L,B47G,G
+BELL,47J,Ranger,,1,Piston,Helicopter,H1P,L,B47J,G
+BELL,204,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,205,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,206A,JetRanger,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,206B,JetRanger,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,206L,LongRanger,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,206LT,TwinRanger,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B06T,G
+BELL,209,HueyCobra,,1,Turboprop/Turboshaft,Helicopter,H1T,L,HUCO,G
+BELL,209,SuperCobra,,2,Turboprop/Turboshaft,Helicopter,H2T,M,SUCO,G
+BELL,210,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,212,,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B212,G
+BELL,212,Twin Two-Twelve,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B212,G
+BELL,214A,Isfahan,,1,Turboprop/Turboshaft,Helicopter,H1T,M,B214,G
+BELL,214B,,,1,Turboprop/Turboshaft,Helicopter,H1T,M,B214,G
+BELL,214C,BigLifter,,1,Turboprop/Turboshaft,Helicopter,H1T,M,B214,G
+BELL,214ST,SuperTransport,,2,Turboprop/Turboshaft,Helicopter,H2T,M,BSTP,G
+BELL,222,,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B222,G
+BELL,230,,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B230,G
+BELL,301,,,2,Turboprop/Turboshaft,Tiltrotor,T2T,L,XV15,G
+BELL,406,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,406,Combat Scout,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,407,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B407,G
+BELL,412,,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B412,G
+BELL,412,Arapaho,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B412,G
+BELL,412,Sentinel,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B412,G
+BELL,427,,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B427,G
+BELL,429,GlobalRanger,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B429,G
+BELL,430,,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B430,G
+BELL,449,SuperCobra,,2,Turboprop/Turboshaft,Helicopter,H2T,M,SUCO,G
+BELL,AH-1E,HueyCobra,,1,Turboprop/Turboshaft,Helicopter,H1T,L,HUCO,G
+BELL,AH-1F,HueyCobra,,1,Turboprop/Turboshaft,Helicopter,H1T,L,HUCO,G
+BELL,AH-1P,HueyCobra,,1,Turboprop/Turboshaft,Helicopter,H1T,L,HUCO,G
+BELL,AH-1S,HueyCobra,,1,Turboprop/Turboshaft,Helicopter,H1T,L,HUCO,G
+BELL,AH-1W,SuperCobra,,2,Turboprop/Turboshaft,Helicopter,H2T,M,SUCO,G
+BELL,AH-1Z,SuperCobra,,2,Turboprop/Turboshaft,Helicopter,H2T,M,SUCO,G
+BELL,,Airacobra,,1,Piston,LandPlane,L1P,L,P39,G
+BELL,,BigLifter,,1,Turboprop/Turboshaft,Helicopter,H1T,M,B214,G
+BELL,CH-118,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,CH-136,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,CH-139,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,CH-146,Griffon,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B412,G
+BELL,COH-58,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,,Combat Scout,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,,Creek,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,CUH-1H,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,EH-1,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,,GlobalRanger,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B429,G
+BELL,,Griffin,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B412,G
+BELL,,Griffon,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B412,G
+BELL,HH-1,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,Arapaho (412),,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B412,G
+BELL,Arapaho (RH-70),,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B407,G
+BELL,HH-13,,,1,Piston,Helicopter,H1P,L,B47J,G
+BELL,,Huey,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,,HueyCobra,,1,Turboprop/Turboshaft,Helicopter,H1T,L,HUCO,G
+BELL,,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,,Isfahan,,1,Turboprop/Turboshaft,Helicopter,H1T,M,B214,G
+BELL,,JetRanger,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,,Kingcobra,,1,Piston,LandPlane,L1P,L,P63,G
+BELL,,Kiowa,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,,Kiowa Warrior,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,,LongRanger,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,OH-13,Sioux,,1,Piston,Helicopter,H1P,L,B47G,G
+BELL,OH-58,Kiowa,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,OH-58,Kiowa Warrior,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,P-39,Airacobra,,1,Piston,LandPlane,L1P,L,P39,G
+BELL,P-63,Kingcobra,,1,Piston,LandPlane,L1P,L,P63,G
+BELL,,Ranger,,1,Piston,Helicopter,H1P,L,B47J,G
+BELL,,SeaRanger,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,,Sentinel,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B412,G
+BELL,SH-1,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,,Sioux,,1,Piston,Helicopter,H1P,L,B47G,G
+BELL,,SuperCobra,,2,Turboprop/Turboshaft,Helicopter,H2T,M,SUCO,G
+BELL,,SuperTransport,,2,Turboprop/Turboshaft,Helicopter,H2T,M,BSTP,G
+BELL,TAH-1,HueyCobra,,1,Turboprop/Turboshaft,Helicopter,H1T,L,HUCO,G
+BELL,TH-1E,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,ARH-70 Arapaho,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B407,G
+BELL,YRH-70,Arapaho,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B407,G
+BELL,TH-1F,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,TH-1H Iroquois,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,TH-1L,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,TH-1S,HueyCobra,,1,Turboprop/Turboshaft,Helicopter,H1T,L,HUCO,G
+BELL,TH-13N,,,1,Piston,Helicopter,H1P,L,B47J,G
+BELL,TH-13T,,,1,Piston,Helicopter,H1P,L,B47G,G
+BELL,TH-57,SeaRanger,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,TH-67,Creek,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,TH-206,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,,Trooper,,1,Piston,Helicopter,H1P,L,B47G,G
+BELL,,Twin Two-Twelve,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B212,G
+BELL,,TwinRanger,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B06T,G
+BELL,UH-1A,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,UH-1B,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,UH-1C,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,UH-1D,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,UH-1E,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,UH-1F,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,UH-1H,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,UH-1L,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,UH-1M,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,UH-1N,,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B212,G
+BELL,UH-1V,Iroquois,,1,Turboprop/Turboshaft,Helicopter,H1T,L,UH1,G
+BELL,UH-1Y,,,2,Turboprop/Turboshaft,Helicopter,H2T,M,UH1Y,G
+BELL,UH-13H,,,1,Piston,Helicopter,H1P,L,B47G,G
+BELL,UH-13J,,,1,Piston,Helicopter,H1P,L,B47J,G
+BELL,UH-13P,,,1,Piston,Helicopter,H1P,L,B47J,G
+BELL,UH-13R,,,1,Piston,Helicopter,H1P,L,B47J,G
+BELL,VH-1,,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B212,G
+BELL,VH-4,JetRanger,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B06,G
+BELL,XV-15,,,2,Turboprop/Turboshaft,Tiltrotor,T2T,L,XV15,G
+BELL,412 Griffin,,,2,Turboprop/Turboshaft,Helicopter,H2T,L,B412,G
+BELL,525 Relentless,,,2,Turboprop/Turboshaft,Helicopter,H2T,M,B525,G
+BELL,Relentless,,,2,Turboprop/Turboshaft,Helicopter,H2T,M,B525,G
+BELL,505,Jet Ranger X,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B505,G
+BELL,,Jet Ranger X,,1,Turboprop/Turboshaft,Helicopter,H1T,L,B505,G
+BELL,V-280,Valor,,2,Turboprop/Turboshaft,Tiltrotor,T2T,M,V280,Z
+BELL,,Valor,,2,Turboprop/Turboshaft,Tiltrotor,T2T,M,V280,Z

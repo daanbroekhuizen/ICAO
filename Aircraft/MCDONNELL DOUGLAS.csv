@@ -1,0 +1,101 @@
+manufacturer_code,model_no,model_name,model_version,engine_count,engine_type,aircraft_desc,description,wtc,tdesig,wtg
+MCDONNELL DOUGLAS,TAV-8,Matador,,1,Jet,LandPlane,L1J,M,HAR,G
+MCDONNELL DOUGLAS,Hornet,,,2,Jet,LandPlane,L2J,M,F18H,F
+MCDONNELL DOUGLAS,ATF-18 Hornet,,,2,Jet,LandPlane,L2J,M,F18H,F
+MCDONNELL DOUGLAS,A-4,Skyhawk,,1,Jet,LandPlane,L1J,M,A4,G
+MCDONNELL DOUGLAS,AH-6G,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+MCDONNELL DOUGLAS,AH-6J,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,MD52,G
+MCDONNELL DOUGLAS,AH-64,Apache,,2,Turboprop/Turboshaft,Helicopter,H2T,M,H64,G
+MCDONNELL DOUGLAS,AH-64,Longbow Apache,,2,Turboprop/Turboshaft,Helicopter,H2T,M,H64,G
+MCDONNELL DOUGLAS,AH-64,Pethen,,2,Turboprop/Turboshaft,Helicopter,H2T,M,H64,G
+MCDONNELL DOUGLAS,,Akef,,2,Jet,LandPlane,L2J,M,F15,F
+MCDONNELL DOUGLAS,,Apache,,2,Turboprop/Turboshaft,Helicopter,H2T,M,H64,G
+MCDONNELL DOUGLAS,AV-8,Harrier,,1,Jet,LandPlane,L1J,M,HAR,G
+MCDONNELL DOUGLAS,,Baz,,2,Jet,LandPlane,L2J,M,F15,F
+MCDONNELL DOUGLAS,C-9,Nightingale,,2,Jet,LandPlane,L2J,M,DC93,E
+MCDONNELL DOUGLAS,C-9,Skytrain 2,,2,Jet,LandPlane,L2J,M,DC93,E
+MCDONNELL DOUGLAS,C-17,Globemaster 3,,4,Jet,LandPlane,L4J,H,C17,C
+MCDONNELL DOUGLAS,CF-18 Hornet,,,2,Jet,LandPlane,L2J,M,F18H,F
+MCDONNELL DOUGLAS,CF-188 Hornet,,,2,Jet,LandPlane,L2J,M,F18H,F
+MCDONNELL DOUGLAS,EF-18 Hornet,,,2,Jet,LandPlane,L2J,M,F18H,F
+MCDONNELL DOUGLAS,,Combat Explorer,,2,Turboprop/Turboshaft,Helicopter,H2T,L,EXPL,G
+MCDONNELL DOUGLAS,DC-8-50,,,4,Jet,LandPlane,L4J,H,DC85,C
+MCDONNELL DOUGLAS,DC-8-50,Jet Trader,,4,Jet,LandPlane,L4J,H,DC85,C
+MCDONNELL DOUGLAS,DC-8-60,,,4,Jet,LandPlane,L4J,H,DC86,C
+MCDONNELL DOUGLAS,DC-8-70,,,4,Jet,LandPlane,L4J,H,DC87,C
+MCDONNELL DOUGLAS,DC-9-10,,,2,Jet,LandPlane,L2J,M,DC91,F
+MCDONNELL DOUGLAS,DC-9-20,,,2,Jet,LandPlane,L2J,M,DC92,E
+MCDONNELL DOUGLAS,DC-9-30,,,2,Jet,LandPlane,L2J,M,DC93,E
+MCDONNELL DOUGLAS,DC-9-40,,,2,Jet,LandPlane,L2J,M,DC94,E
+MCDONNELL DOUGLAS,DC-9-50,,,2,Jet,LandPlane,L2J,M,DC95,E
+MCDONNELL DOUGLAS,DC-10,,,3,Jet,LandPlane,L3J,H,DC10,C
+MCDONNELL DOUGLAS,,Defender,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+MCDONNELL DOUGLAS,,Eagle,,2,Jet,LandPlane,L2J,M,F15,F
+MCDONNELL DOUGLAS,EAV-8,Matador,,1,Jet,LandPlane,L1J,M,HAR,G
+MCDONNELL DOUGLAS,,Enforcer,,2,Turboprop/Turboshaft,Helicopter,H2T,L,EXPL,G
+MCDONNELL DOUGLAS,,Explorer,,2,Turboprop/Turboshaft,Helicopter,H2T,L,EXPL,G
+MCDONNELL DOUGLAS,,Extender,,3,Jet,LandPlane,L3J,H,DC10,C
+MCDONNELL DOUGLAS,F-4,Kurnass,,2,Jet,LandPlane,L2J,M,F4,F
+MCDONNELL DOUGLAS,F-4,Phantom 2,,2,Jet,LandPlane,L2J,M,F4,F
+MCDONNELL DOUGLAS,F-15,Akef,,2,Jet,LandPlane,L2J,M,F15,F
+MCDONNELL DOUGLAS,FA-18A Hornet,,,2,Jet,LandPlane,L2J,M,F18H,F
+MCDONNELL DOUGLAS,FA-18B Hornet,,,2,Jet,LandPlane,L2J,M,F18H,F
+MCDONNELL DOUGLAS,F-15,Baz,,2,Jet,LandPlane,L2J,M,F15,F
+MCDONNELL DOUGLAS,F-15,Eagle,,2,Jet,LandPlane,L2J,M,F15,F
+MCDONNELL DOUGLAS,F-15,Ra'am,,2,Jet,LandPlane,L2J,M,F15,F
+MCDONNELL DOUGLAS,,Globemaster 3,,4,Jet,LandPlane,L4J,H,C17,C
+MCDONNELL DOUGLAS,,Goshawk,,1,Jet,LandPlane,L1J,M,HAWK,G
+MCDONNELL DOUGLAS,,Harrier,,1,Jet,LandPlane,L1J,M,HAR,G
+MCDONNELL DOUGLAS,JAH-64,Apache,,2,Turboprop/Turboshaft,Helicopter,H2T,M,H64,G
+MCDONNELL DOUGLAS,,Jet Trader,,4,Jet,LandPlane,L4J,H,DC85,C
+MCDONNELL DOUGLAS,KC-10,Extender,,3,Jet,LandPlane,L3J,H,DC10,C
+MCDONNELL DOUGLAS,KDC-10,,,3,Jet,LandPlane,L3J,H,DC10,C
+MCDONNELL DOUGLAS,,Kurnass,,2,Jet,LandPlane,L2J,M,F4,F
+MCDONNELL DOUGLAS,,Lifter,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+MCDONNELL DOUGLAS,,Longbow Apache,,2,Turboprop/Turboshaft,Helicopter,H2T,M,H64,G
+MCDONNELL DOUGLAS,,Matador,,1,Jet,LandPlane,L1J,M,HAR,G
+MCDONNELL DOUGLAS,MD-10,,,3,Jet,LandPlane,L3J,H,DC10,C
+MCDONNELL DOUGLAS,MD-11,,,3,Jet,LandPlane,L3J,H,MD11,C
+MCDONNELL DOUGLAS,MD-81,,,2,Jet,LandPlane,L2J,M,MD81,D
+MCDONNELL DOUGLAS,MD-82,,,2,Jet,LandPlane,L2J,M,MD82,D
+MCDONNELL DOUGLAS,MD-83,,,2,Jet,LandPlane,L2J,M,MD83,D
+MCDONNELL DOUGLAS,FA-18C Hornet,,,2,Jet,LandPlane,L2J,M,F18H,F
+MCDONNELL DOUGLAS,FA-18D Hornet,,,2,Jet,LandPlane,L2J,M,F18H,F
+MCDONNELL DOUGLAS,MD-87,,,2,Jet,LandPlane,L2J,M,MD87,D
+MCDONNELL DOUGLAS,MD-88,,,2,Jet,LandPlane,L2J,M,MD88,D
+MCDONNELL DOUGLAS,MD-90,,,2,Jet,LandPlane,L2J,M,MD90,D
+MCDONNELL DOUGLAS,MD-500,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+MCDONNELL DOUGLAS,MD-500,Defender,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+MCDONNELL DOUGLAS,MD-500,Nightfox,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+MCDONNELL DOUGLAS,MD-520N,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,MD52,G
+MCDONNELL DOUGLAS,MD-530F,Lifter,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+MCDONNELL DOUGLAS,MD-530MG,Defender,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+MCDONNELL DOUGLAS,MD-530MG,Nightfox,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+MCDONNELL DOUGLAS,MD-530N,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,MD52,G
+MCDONNELL DOUGLAS,MD-600N,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,MD60,G
+MCDONNELL DOUGLAS,MD-900,Combat Explorer,,2,Turboprop/Turboshaft,Helicopter,H2T,L,EXPL,G
+MCDONNELL DOUGLAS,MD-900,Explorer,,2,Turboprop/Turboshaft,Helicopter,H2T,L,EXPL,G
+MCDONNELL DOUGLAS,MD-902,Explorer,,2,Turboprop/Turboshaft,Helicopter,H2T,L,EXPL,G
+MCDONNELL DOUGLAS,MH-6H,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+MCDONNELL DOUGLAS,MH-6J,,,1,Turboprop/Turboshaft,Helicopter,H1T,L,MD52,G
+MCDONNELL DOUGLAS,MH-90,Enforcer,,2,Turboprop/Turboshaft,Helicopter,H2T,L,EXPL,G
+MCDONNELL DOUGLAS,,Nightfox,,1,Turboprop/Turboshaft,Helicopter,H1T,L,H500,G
+MCDONNELL DOUGLAS,,Nightingale,,2,Jet,LandPlane,L2J,M,DC93,E
+MCDONNELL DOUGLAS,OA-4,Skyhawk,,1,Jet,LandPlane,L1J,M,A4,G
+MCDONNELL DOUGLAS,,Pethen,,2,Turboprop/Turboshaft,Helicopter,H2T,M,H64,G
+MCDONNELL DOUGLAS,,Phantom 2,,2,Jet,LandPlane,L2J,M,F4,F
+MCDONNELL DOUGLAS,QF-4,Phantom 2,,2,Jet,LandPlane,L2J,M,F4,F
+MCDONNELL DOUGLAS,,Ra'am,,2,Jet,LandPlane,L2J,M,F15,F
+MCDONNELL DOUGLAS,RF-4,Kurnass,,2,Jet,LandPlane,L2J,M,F4,F
+MCDONNELL DOUGLAS,RF-4,Phantom 2,,2,Jet,LandPlane,L2J,M,F4,F
+MCDONNELL DOUGLAS,,Skyhawk,,1,Jet,LandPlane,L1J,M,A4,G
+MCDONNELL DOUGLAS,,Skytrain 2,,2,Jet,LandPlane,L2J,M,DC93,E
+MCDONNELL DOUGLAS,T-45,Goshawk,,1,Jet,LandPlane,L1J,M,HAWK,G
+MCDONNELL DOUGLAS,TA-4,Skyhawk,,1,Jet,LandPlane,L1J,M,A4,G
+MCDONNELL DOUGLAS,TAV-8,Harrier,,1,Jet,LandPlane,L1J,M,HAR,G
+MCDONNELL DOUGLAS,VC-9,,,2,Jet,LandPlane,L2J,M,DC93,E
+MCDONNELL DOUGLAS,YC-15,,,4,Jet,LandPlane,L4J,M,C15,D
+MCDONNELL DOUGLAS,KAF-18 Hornet,,,2,Jet,LandPlane,L2J,M,F18H,F
+MCDONNELL DOUGLAS,Super Hornet,,,2,Jet,LandPlane,L2J,M,F18S,F
+MCDONNELL DOUGLAS,FA-18E Super Hornet,,,2,Jet,LandPlane,L2J,M,F18S,F
+MCDONNELL DOUGLAS,FA-18F Super Hornet,,,2,Jet,LandPlane,L2J,M,F18S,F

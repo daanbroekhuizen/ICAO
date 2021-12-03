@@ -1,0 +1,230 @@
+manufacturer_code,model_no,model_name,model_version,engine_count,engine_type,aircraft_desc,description,wtc,tdesig,wtg
+PIPER,PA-28R-201,Arrow,,1,Piston,LandPlane,L1P,L,P28R,G
+PIPER,,Arrow,,1,Piston,LandPlane,L1P,L,P28R,G
+PIPER,PA-46R-350T,Malibu Matrix,,1,Piston,LandPlane,L1P,L,PA46,G
+PIPER,,Malibu Matrix,,1,Piston,LandPlane,L1P,L,PA46,G
+PIPER,PA-28RT-201T Turbo Arrow 4,,,1,Piston,LandPlane,L1P,L,P28U,G
+PIPER,Turbo Arrow 4,,,1,Piston,LandPlane,L1P,L,P28U,G
+PIPER,PA-28R-201T Turbo Arrow 3,,,1,Piston,LandPlane,L1P,L,P28S,G
+PIPER,PA-28R-201T Turbo Arrow,,,1,Piston,LandPlane,L1P,L,P28S,G
+PIPER,Turbo Cherokee Arrow 3,,,1,Piston,LandPlane,L1P,L,P28S,G
+PIPER,Turbo Arrow 3,,,1,Piston,LandPlane,L1P,L,P28S,G
+PIPER,Turbo Arrow,,,1,Piston,LandPlane,L1P,L,P28S,G
+PIPER,PA-28-181 Archer TX,,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,Archer TX,,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,6X,,,1,Piston,LandPlane,L1P,L,PA32,G
+PIPER,6XT,,,1,Piston,LandPlane,L1P,L,PA32,G
+PIPER,108,Station Wagon,,1,Piston,LandPlane,L1P,L,S108,G
+PIPER,108,Voyager,,1,Piston,LandPlane,L1P,L,S108,G
+PIPER,AE,Cub Cruiser,,1,Piston,LandPlane,L1P,L,J5,G
+PIPER,,Aerostar,,2,Piston,LandPlane,L2P,L,AEST,G
+PIPER,,Apache,,2,Piston,LandPlane,L2P,L,PA23,G
+PIPER,,Archer 2,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,,Archer 3,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,,Arrow 3,,1,Piston,LandPlane,L1P,L,P28R,G
+PIPER,,Arrow 4,,1,Piston,LandPlane,L1P,L,P28T,G
+PIPER,,Aztec,,2,Piston,LandPlane,L2P,L,PA27,G
+PIPER,,Cadet,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,,Caribbean,,1,Piston,LandPlane,L1P,L,PA22,G
+PIPER,,Cherokee 140-4,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,,Cherokee (PA-28-140/150/160/180),,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,,Cherokee (PA-28-235),,1,Piston,LandPlane,L1P,L,P28B,G
+PIPER,,Cherokee Archer,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,,Cherokee Archer 2,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,,Cherokee Arrow,,1,Piston,LandPlane,L1P,L,P28R,G
+PIPER,,Cherokee Arrow 2,,1,Piston,LandPlane,L1P,L,P28R,G
+PIPER,,Cherokee Arrow 3,,1,Piston,LandPlane,L1P,L,P28R,G
+PIPER,,Cherokee Challenger,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,,Cherokee Charger,,1,Piston,LandPlane,L1P,L,P28B,G
+PIPER,,Cherokee Chief,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,,Cherokee Cruiser,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,,Cherokee Flite Liner,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,,Cherokee Lance,,1,Piston,LandPlane,L1P,L,P32R,G
+PIPER,,Cherokee Pathfinder,,1,Piston,LandPlane,L1P,L,P28B,G
+PIPER,,Cherokee Six,,1,Piston,LandPlane,L1P,L,PA32,G
+PIPER,,Cherokee Warrior,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,,Cherokee Warrior 2,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,,Cheyenne,,2,Turboprop/Turboshaft,LandPlane,L2T,L,PAY2,G
+PIPER,,Cheyenne 1,,2,Turboprop/Turboshaft,LandPlane,L2T,L,PAY1,G
+PIPER,,Cheyenne 2,,2,Turboprop/Turboshaft,LandPlane,L2T,L,PAY2,G
+PIPER,,Cheyenne 2XL,,2,Turboprop/Turboshaft,LandPlane,L2T,L,PAY2,G
+PIPER,,Cheyenne 3,,2,Turboprop/Turboshaft,LandPlane,L2T,L,PAY3,G
+PIPER,,Cheyenne 400,,2,Turboprop/Turboshaft,LandPlane,L2T,L,PAY4,G
+PIPER,,Chieftain,,2,Piston,LandPlane,L2P,L,PA31,G
+PIPER,,Clipper,,1,Piston,LandPlane,L1P,L,PA16,G
+PIPER,,Colt,,1,Piston,LandPlane,L1P,L,PA22,G
+PIPER,,Comanche,,1,Piston,LandPlane,L1P,L,PA24,G
+PIPER,,Cub (J-2),,1,Piston,LandPlane,L1P,L,J2,G
+PIPER,,Cub (J-3/L-4/NE),,1,Piston,LandPlane,L1P,L,J3,G
+PIPER,,Cub Coupe,,1,Piston,LandPlane,L1P,L,J4,G
+PIPER,,Cub Cruiser,,1,Piston,LandPlane,L1P,L,J5,G
+PIPER,,Cub Special,,1,Piston,LandPlane,L1P,L,PA11,G
+PIPER,,Dakota,,1,Piston,LandPlane,L1P,L,P28B,G
+PIPER,,Family Cruiser,,1,Piston,LandPlane,L1P,L,PA14,G
+PIPER,J-2,Cub,,1,Piston,LandPlane,L1P,L,J2,G
+PIPER,J-3,Cub,,1,Piston,LandPlane,L1P,L,J3,G
+PIPER,J-4,Cub Coupe,,1,Piston,LandPlane,L1P,L,J4,G
+PIPER,J-5,Cub Cruiser,,1,Piston,LandPlane,L1P,L,J5,G
+PIPER,L-4,Cub,,1,Piston,LandPlane,L1P,L,J3,G
+PIPER,L-14,Cub Cruiser,,1,Piston,LandPlane,L1P,L,J5,G
+PIPER,L-18B,Cub Special,,1,Piston,LandPlane,L1P,L,PA11,G
+PIPER,L-18C,Super Cub,,1,Piston,LandPlane,L1P,L,PA18,G
+PIPER,L-21,Super Cub,,1,Piston,LandPlane,L1P,L,PA18,G
+PIPER,,Lance,,1,Piston,LandPlane,L1P,L,P32R,G
+PIPER,,Lance 2,,1,Piston,LandPlane,L1P,L,P32T,G
+PIPER,,Malibu,,1,Piston,LandPlane,L1P,L,PA46,G
+PIPER,,Malibu Meridian,,1,Turboprop/Turboshaft,LandPlane,L1T,L,P46T,G
+PIPER,,Malibu Mirage,,1,Piston,LandPlane,L1P,L,PA46,G
+PIPER,,Mojave,,2,Piston,LandPlane,L2P,L,PA31,G
+PIPER,,Navajo,,2,Piston,LandPlane,L2P,L,PA31,G
+PIPER,,Navajo Chieftain,,2,Piston,LandPlane,L2P,L,PA31,G
+PIPER,,Navajo CR,,2,Piston,LandPlane,L2P,L,PA31,G
+PIPER,NE,Cub,,1,Piston,LandPlane,L1P,L,J3,G
+PIPER,PA-11,Cub Special,,1,Piston,LandPlane,L1P,L,PA11,G
+PIPER,PA-12,Super Cruiser,,1,Piston,LandPlane,L1P,L,PA12,G
+PIPER,PA-14,Family Cruiser,,1,Piston,LandPlane,L1P,L,PA14,G
+PIPER,PA-15,Vagabond,,1,Piston,LandPlane,L1P,L,PA15,G
+PIPER,PA-16,Clipper,,1,Piston,LandPlane,L1P,L,PA16,G
+PIPER,PA-17,Vagabond,,1,Piston,LandPlane,L1P,L,PA17,G
+PIPER,PA-17,Vagabond Trainer,,1,Piston,LandPlane,L1P,L,PA17,G
+PIPER,PA-18,Super Cub,,1,Piston,LandPlane,L1P,L,PA18,G
+PIPER,PA-20,Pacer,,1,Piston,LandPlane,L1P,L,PA20,G
+PIPER,PA-22,Caribbean,,1,Piston,LandPlane,L1P,L,PA22,G
+PIPER,PA-22,Colt,,1,Piston,LandPlane,L1P,L,PA22,G
+PIPER,PA-22,Tri-Pacer,,1,Piston,LandPlane,L1P,L,PA22,G
+PIPER,PA-23-150,Apache,,2,Piston,LandPlane,L2P,L,PA23,G
+PIPER,PA-23-160,Apache,,2,Piston,LandPlane,L2P,L,PA23,G
+PIPER,PA-23-235,Aztec,,2,Piston,LandPlane,L2P,L,PA27,G
+PIPER,PA-23-250,Aztec,,2,Piston,LandPlane,L2P,L,PA27,G
+PIPER,PA-23-250,Turbo Aztec,,2,Piston,LandPlane,L2P,L,PA27,G
+PIPER,PA-24,Comanche,,1,Piston,LandPlane,L1P,L,PA24,G
+PIPER,PA-25,Pawnee,,1,Piston,LandPlane,L1P,L,PA25,G
+PIPER,PA-28-140,Cherokee,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-140,Cherokee 140-4,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-140,Cherokee Cruiser,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-140,Cherokee Flite Liner,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-150,Cherokee,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-151,Cherokee Warrior,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-160,Cherokee,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-161,Cadet,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-161,Cherokee Warrior 2,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-161,Warrior 2,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-161,Warrior 3,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-180,Cherokee,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-180,Cherokee Archer,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-180,Cherokee Challenger,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-180TG,Cherokee Chief,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-181,Archer 2,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-181,Archer 3,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-181,Cherokee Archer 2,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28-201T,Turbo Dakota,,1,Piston,LandPlane,L1P,L,P28B,G
+PIPER,PA-28-235,Cherokee,,1,Piston,LandPlane,L1P,L,P28B,G
+PIPER,PA-28-235,Cherokee Charger,,1,Piston,LandPlane,L1P,L,P28B,G
+PIPER,PA-28-235,Cherokee Pathfinder,,1,Piston,LandPlane,L1P,L,P28B,G
+PIPER,PA-28-236,Dakota,,1,Piston,LandPlane,L1P,L,P28B,G
+PIPER,PA-28R-180,Cherokee Arrow,,1,Piston,LandPlane,L1P,L,P28R,G
+PIPER,PA-28R-200,Cherokee Arrow,,1,Piston,LandPlane,L1P,L,P28R,G
+PIPER,PA-28R-200,Cherokee Arrow 2,,1,Piston,LandPlane,L1P,L,P28R,G
+PIPER,PA-28R-201,Arrow 3,,1,Piston,LandPlane,L1P,L,P28R,G
+PIPER,PA-28R-201,Cherokee Arrow 3,,1,Piston,LandPlane,L1P,L,P28R,G
+PIPER,PA-28R-300,Pillán,,1,Piston,LandPlane,L1P,L,PILL,G
+PIPER,PA-28RT-201,Arrow 4,,1,Piston,LandPlane,L1P,L,P28T,G
+PIPER,PA-30,Turbo Twin Comanche,,2,Piston,LandPlane,L2P,L,PA30,G
+PIPER,PA-30,Twin Comanche,,2,Piston,LandPlane,L2P,L,PA30,G
+PIPER,PA-31-300,Navajo,,2,Piston,LandPlane,L2P,L,PA31,G
+PIPER,PA-31-310,Navajo,,2,Piston,LandPlane,L2P,L,PA31,G
+PIPER,PA-31-325,Navajo CR,,2,Piston,LandPlane,L2P,L,PA31,G
+PIPER,PA-31-350,Chieftain,,2,Piston,LandPlane,L2P,L,PA31,G
+PIPER,PA-31-350,Navajo Chieftain,,2,Piston,LandPlane,L2P,L,PA31,G
+PIPER,PA-31-350,T-1020,,2,Piston,LandPlane,L2P,L,PA31,G
+PIPER,PA-31P-350,Mojave,,2,Piston,LandPlane,L2P,L,PA31,G
+PIPER,PA-31P-425,Pressurized Navajo,,2,Piston,LandPlane,L2P,L,PA31,G
+PIPER,PA-31T1-500,Cheyenne 1,,2,Turboprop/Turboshaft,LandPlane,L2T,L,PAY1,G
+PIPER,PA-31T2-620,Cheyenne 2XL,,2,Turboprop/Turboshaft,LandPlane,L2T,L,PAY2,G
+PIPER,PA-31T3-500,T-1040,,2,Turboprop/Turboshaft,LandPlane,L2T,L,PAT4,G
+PIPER,PA-31T-620,Cheyenne,,2,Turboprop/Turboshaft,LandPlane,L2T,L,PAY2,G
+PIPER,PA-31T-620,Cheyenne 2,,2,Turboprop/Turboshaft,LandPlane,L2T,L,PAY2,G
+PIPER,PA-32 6X,,,1,Piston,LandPlane,L1P,L,PA32,G
+PIPER,PA-32 6XT,,,1,Piston,LandPlane,L1P,L,PA32,G
+PIPER,PA-32,Cherokee Six,,1,Piston,LandPlane,L1P,L,PA32,G
+PIPER,PA-32,Saratoga,,1,Piston,LandPlane,L1P,L,PA32,G
+PIPER,PA-32,Six,,1,Piston,LandPlane,L1P,L,PA32,G
+PIPER,PA-32,Turbo Saratoga,,1,Piston,LandPlane,L1P,L,PA32,G
+PIPER,PA-32R-300,Cherokee Lance,,1,Piston,LandPlane,L1P,L,P32R,G
+PIPER,PA-32R-300,Lance,,1,Piston,LandPlane,L1P,L,P32R,G
+PIPER,PA-32R-301,Saratoga 2 HP,,1,Piston,LandPlane,L1P,L,P32R,G
+PIPER,PA-32R-301,Saratoga SP,,1,Piston,LandPlane,L1P,L,P32R,G
+PIPER,PA-32R-301T,Saratoga 2 TC,,1,Piston,LandPlane,L1P,L,P32R,G
+PIPER,PA-32R-301T,Turbo Saratoga SP,,1,Piston,LandPlane,L1P,L,P32R,G
+PIPER,PA-32RT-300,Lance 2,,1,Piston,LandPlane,L1P,L,P32T,G
+PIPER,PA-32RT-300T,Turbo Lance 2,,1,Piston,LandPlane,L1P,L,P32T,G
+PIPER,PA-34,Seneca,,2,Piston,LandPlane,L2P,L,PA34,G
+PIPER,PA-36,Pawnee Brave,,1,Piston,LandPlane,L1P,L,PA36,G
+PIPER,PA-38,Tomahawk,,1,Piston,LandPlane,L1P,L,PA38,G
+PIPER,PA-39,Twin Comanche CR,,2,Piston,LandPlane,L2P,L,PA30,G
+PIPER,PA-42-720,Cheyenne 3,,2,Turboprop/Turboshaft,LandPlane,L2T,L,PAY3,G
+PIPER,PA-42-1000,Cheyenne 400,,2,Turboprop/Turboshaft,LandPlane,L2T,L,PAY4,G
+PIPER,PA-44,Seminole,,2,Piston,LandPlane,L2P,L,PA44,G
+PIPER,PA-44,Turbo Seminole,,2,Piston,LandPlane,L2P,L,PA44,G
+PIPER,PA-46-310P,Malibu,,1,Piston,LandPlane,L1P,L,PA46,G
+PIPER,PA-46-350P,Malibu Mirage,,1,Piston,LandPlane,L1P,L,PA46,G
+PIPER,PA-46-500TP,Malibu Meridian,,1,Turboprop/Turboshaft,LandPlane,L1T,L,P46T,G
+PIPER,PA-60,Aerostar,,2,Piston,LandPlane,L2P,L,AEST,G
+PIPER,,Pacer,,1,Piston,LandPlane,L1P,L,PA20,G
+PIPER,,Pawnee,,1,Piston,LandPlane,L1P,L,PA25,G
+PIPER,,Pawnee Brave,,1,Piston,LandPlane,L1P,L,PA36,G
+PIPER,,Pillán,,1,Piston,LandPlane,L1P,L,PILL,G
+PIPER,,Pressurized Navajo,,2,Piston,LandPlane,L2P,L,PA31,G
+PIPER,,Saratoga,,1,Piston,LandPlane,L1P,L,PA32,G
+PIPER,,Saratoga 2 HP,,1,Piston,LandPlane,L1P,L,P32R,G
+PIPER,,Saratoga 2 TC,,1,Piston,LandPlane,L1P,L,P32R,G
+PIPER,,Saratoga SP,,1,Piston,LandPlane,L1P,L,P32R,G
+PIPER,,Seminole,,2,Piston,LandPlane,L2P,L,PA44,G
+PIPER,,Seneca,,2,Piston,LandPlane,L2P,L,PA34,G
+PIPER,,Six,,1,Piston,LandPlane,L1P,L,PA32,G
+PIPER,,Station Wagon,,1,Piston,LandPlane,L1P,L,S108,G
+PIPER,,Super Cruiser,,1,Piston,LandPlane,L1P,L,PA12,G
+PIPER,,Super Cub,,1,Piston,LandPlane,L1P,L,PA18,G
+PIPER,,T-1020,,2,Piston,LandPlane,L2P,L,PA31,G
+PIPER,,T-1040,,2,Turboprop/Turboshaft,LandPlane,L2T,L,PAT4,G
+PIPER,,Tomahawk,,1,Piston,LandPlane,L1P,L,PA38,G
+PIPER,,Tri-Pacer,,1,Piston,LandPlane,L1P,L,PA22,G
+PIPER,,Turbo Aztec,,2,Piston,LandPlane,L2P,L,PA27,G
+PIPER,,Turbo Dakota,,1,Piston,LandPlane,L1P,L,P28B,G
+PIPER,,Turbo Lance 2,,1,Piston,LandPlane,L1P,L,P32T,G
+PIPER,,Turbo Saratoga,,1,Piston,LandPlane,L1P,L,PA32,G
+PIPER,,Turbo Saratoga SP,,1,Piston,LandPlane,L1P,L,P32R,G
+PIPER,,Turbo Seminole,,2,Piston,LandPlane,L2P,L,PA44,G
+PIPER,,Turbo Twin Comanche,,2,Piston,LandPlane,L2P,L,PA30,G
+PIPER,,Twin Comanche,,2,Piston,LandPlane,L2P,L,PA30,G
+PIPER,,Twin Comanche CR,,2,Piston,LandPlane,L2P,L,PA30,G
+PIPER,U-7,Super Cub,,1,Piston,LandPlane,L1P,L,PA18,G
+PIPER,U-11,Aztec,,2,Piston,LandPlane,L2P,L,PA27,G
+PIPER,UC-26,Aztec,,2,Piston,LandPlane,L2P,L,PA27,G
+PIPER,,Vagabond (PA-15),,1,Piston,LandPlane,L1P,L,PA15,G
+PIPER,,Vagabond (PA-17),,1,Piston,LandPlane,L1P,L,PA17,G
+PIPER,,Vagabond Trainer,,1,Piston,LandPlane,L1P,L,PA17,G
+PIPER,,Voyager,,1,Piston,LandPlane,L1P,L,S108,G
+PIPER,,Warrior 2,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,,Warrior 3,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-28R-201T ,Turbo Cherokee Arrow 3,,1,Piston,LandPlane,L1P,L,P28S,G
+PIPER,PiperSport,,,1,Piston,LandPlane,L1P,L,CRUZ,G
+PIPER,PA-28-181 Archer LX,,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,PA-47 Piper Jet,,,1,Jet,LandPlane,L1J,L,PA47,G
+PIPER,PA-47 Piper Jet Altaire,,,1,Jet,LandPlane,L1J,L,PA47,G
+PIPER,Archer LX,,,1,Piston,LandPlane,L1P,L,P28A,G
+PIPER,Piper Jet,,,1,Jet,LandPlane,L1J,L,PA47,G
+PIPER,Piper Jet Altaire,,,1,Jet,LandPlane,L1J,L,PA47,G
+PIPER,PA-46-350P M350,,,1,Piston,LandPlane,L1P,L,PA46,G
+PIPER,M350,,,1,Piston,LandPlane,L1P,L,PA46,G
+PIPER,PA-46-500TP Meridian M500,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,P46T,G
+PIPER,Meridian M500,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,P46T,G
+PIPER,M500,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,P46T,G
+PIPER,PA-46-600TP M600,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,M600,G
+PIPER,M600,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,M600,G
+PIPER,PA-28-181,Pilot,,1,Piston,LandPlane,L1P,L,P28A,
+PIPER,PA-28-181,Archer DX,,1,Piston,LandPlane,L1P,L,P28A,
+PIPER,PA-28-181,Archer DLX,,1,Piston,LandPlane,L1P,L,P28A,
+PIPER,,Pilot,,1,Piston,LandPlane,L1P,L,P28A,
+PIPER,,Archer DX,,1,Piston,LandPlane,L1P,L,P28A,
+PIPER,,Archer DLX,,1,Piston,LandPlane,L1P,L,P28A,

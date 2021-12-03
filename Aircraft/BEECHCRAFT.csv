@@ -1,0 +1,19 @@
+manufacturer_code,model_no,model_name,model_version,engine_count,engine_type,aircraft_desc,description,wtc,tdesig,wtg
+BEECHCRAFT,G36 Bonanza,,,1,Piston,LandPlane,L1P,L,BE36,G
+BEECHCRAFT,Bonanza (G36),,,1,Piston,LandPlane,L1P,L,BE36,G
+BEECHCRAFT,58 Baron,,,2,Piston,LandPlane,L2P,L,BE58,G
+BEECHCRAFT,Baron,,,2,Piston,LandPlane,L2P,L,BE58,G
+BEECHCRAFT,90 King Air 90,,,2,Turboprop/Turboshaft,LandPlane,L2T,L,BE9L,G
+BEECHCRAFT,King Air 90,,,2,Turboprop/Turboshaft,LandPlane,L2T,L,BE9L,G
+BEECHCRAFT,200 King Air 250,,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,BE20,G
+BEECHCRAFT,King Air 250,,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,BE20,G
+BEECHCRAFT,300 (B300) King Air 350,,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,B350,G
+BEECHCRAFT,King Air 350,,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,B350,G
+BEECHCRAFT,T-6 Texan 2,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,TEX2,G
+BEECHCRAFT,AT-6 Texan 2,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,TEX2,G
+BEECHCRAFT,3000 Texan 2,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,TEX2,G
+BEECHCRAFT,Texan 2,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,TEX2,G
+BEECHCRAFT,AT-6,Wolverine,,1,Turboprop/Turboshaft,LandPlane,L1T,L,TEX2,G
+BEECHCRAFT,,Wolverine,,1,Turboprop/Turboshaft,LandPlane,L1T,L,TEX2,G
+BEECHCRAFT,,King Air 360,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,B350,
+BEECHCRAFT,300 (B300) King Air 360,,,2,Turboprop/Turboshaft,LandPlane,L2T,L/M,B350,

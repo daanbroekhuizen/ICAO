@@ -1,0 +1,140 @@
+manufacturer_code,model_no,model_name,model_version,engine_count,engine_type,aircraft_desc,description,wtc,tdesig,wtg
+EMBRAER,ERJ-170-100,,,2,Jet,LandPlane,L2J,M,E170,F
+EMBRAER,175 (short wing),,,2,Jet,LandPlane,L2J,M,E75S,F
+EMBRAER,175 (long wing),,,2,Jet,LandPlane,L2J,M,E75L,F
+EMBRAER,ERJ-170-200 (short wing),,,2,Jet,LandPlane,L2J,M,E75S,F
+EMBRAER,ERJ-170-200 (long wing),,,2,Jet,LandPlane,L2J,M,E75L,F
+EMBRAER,EMB-505 Phenom 300,,,2,Jet,LandPlane,L2J,M,E55P,G
+EMBRAER,Phenom 300,,,2,Jet,LandPlane,L2J,M,E55P,G
+EMBRAER,ERJ-190,Lineage 1000,,2,Jet,LandPlane,L2J,M,E190,E
+EMBRAER,,Lineage 1000,,2,Jet,LandPlane,L2J,M,E190,E
+EMBRAER,EMB-135BJ Legacy,,,2,Jet,LandPlane,L2J,M,E35L,F
+EMBRAER,EMB-135BJ Legacy 600,,,2,Jet,LandPlane,L2J,M,E35L,F
+EMBRAER,EMB-135BJ Legacy 650,,,2,Jet,LandPlane,L2J,M,E35L,F
+EMBRAER,170,,,2,Jet,LandPlane,L2J,M,E170,F
+EMBRAER,190,,,2,Jet,LandPlane,L2J,M,E190,E
+EMBRAER,A-1,,,1,Jet,LandPlane,L1J,M,AMX,G
+EMBRAER,A-27,Tucano,,1,Turboprop/Turboshaft,LandPlane,L1T,L,TUCA,G
+EMBRAER,A-29,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,E314,G
+EMBRAER,,ALX,,1,Turboprop/Turboshaft,LandPlane,L1T,L,E314,G
+EMBRAER,AMX,,,1,Jet,LandPlane,L1J,M,AMX,G
+EMBRAER,AT-26,Xavante,,1,Jet,LandPlane,L1J,L,M326,G
+EMBRAER,AT-29,,,1,Turboprop/Turboshaft,LandPlane,L1T,L,E314,G
+EMBRAER,,Bandeirante,,2,Turboprop/Turboshaft,LandPlane,L2T,L,E110,G
+EMBRAER,,Bandeirulha,,2,Turboprop/Turboshaft,LandPlane,L2T,L,E110,G
+EMBRAER,,Brasilia,,2,Turboprop/Turboshaft,LandPlane,L2T,M,E120,G
+EMBRAER,C-95,Bandeirante,,2,Turboprop/Turboshaft,LandPlane,L2T,L,E110,G
+EMBRAER,C-99,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,,Carioca,,1,Piston,LandPlane,L1P,L,P28B,G
+EMBRAER,,Carioquinha,,1,Piston,LandPlane,L1P,L,P28A,G
+EMBRAER,,Corisco,,1,Piston,LandPlane,L1P,L,P28R,G
+EMBRAER,,Corisco 2,,1,Piston,LandPlane,L1P,L,P28T,G
+EMBRAER,EC-9,Xingu,,2,Turboprop/Turboshaft,LandPlane,L2T,L,E121,G
+EMBRAER,EC-95,Bandeirante,,2,Turboprop/Turboshaft,LandPlane,L2T,L,E110,G
+EMBRAER,EMB-110,Bandeirante,,2,Turboprop/Turboshaft,LandPlane,L2T,L,E110,G
+EMBRAER,EMB-111,Bandeirulha,,2,Turboprop/Turboshaft,LandPlane,L2T,L,E110,G
+EMBRAER,EMB-120,Brasilia,,2,Turboprop/Turboshaft,LandPlane,L2T,M,E120,G
+EMBRAER,EMB-121,Xingu,,2,Turboprop/Turboshaft,LandPlane,L2T,L,E121,G
+EMBRAER,EMB-145EP,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,EMB-145ER,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,EMB-145EU,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,EMB-145LR,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,EMB-145LU,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,EMB-145MP,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,EMB-145MP/ASW,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,EMB-145RS,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,EMB-145SA,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,EMB-145XR,,,2,Jet,LandPlane,L2J,M,E45X,F
+EMBRAER,EMB-200,Ipanema,,1,Piston,LandPlane,L1P,L,IPAN,G
+EMBRAER,EMB-201,Ipanema,,1,Piston,LandPlane,L1P,L,IPAN,G
+EMBRAER,EMB-202,Ipanema,,1,Piston,LandPlane,L1P,L,IPAN,G
+EMBRAER,EMB-312,Tucano,,1,Turboprop/Turboshaft,LandPlane,L1T,L,TUCA,G
+EMBRAER,EMB-312F,Tucano,,1,Turboprop/Turboshaft,LandPlane,L1T,L,TUCA,G
+EMBRAER,EMB-545 Legacy 450,,,2,Jet,LandPlane,L2J,M,E545,G
+EMBRAER,EMB-312H,Super Tucano,,1,Turboprop/Turboshaft,LandPlane,L1T,L,E314,G
+EMBRAER,EMB-314,ALX,,1,Turboprop/Turboshaft,LandPlane,L1T,L,E314,G
+EMBRAER,EMB-314,Super Tucano,,1,Turboprop/Turboshaft,LandPlane,L1T,L,E314,G
+EMBRAER,EMB-326,Xavante,,1,Jet,LandPlane,L1J,L,M326,G
+EMBRAER,EMB-500 Phenom 100,,,2,Jet,LandPlane,L2J,L,E50P,G
+EMBRAER,EMB-710,Carioca,,1,Piston,LandPlane,L1P,L,P28B,G
+EMBRAER,EMB-711B,Corisco,,1,Piston,LandPlane,L1P,L,P28R,G
+EMBRAER,EMB-711C,Corisco,,1,Piston,LandPlane,L1P,L,P28R,G
+EMBRAER,EMB-711T,Corisco 2,,1,Piston,LandPlane,L1P,L,P28T,G
+EMBRAER,EMB-712,Carioquinha,,1,Piston,LandPlane,L1P,L,P28A,G
+EMBRAER,EMB-712,Tupi,,1,Piston,LandPlane,L1P,L,P28A,G
+EMBRAER,EMB-720,Minuano,,1,Piston,LandPlane,L1P,L,PA32,G
+EMBRAER,EMB-721,Sertanejo,,1,Piston,LandPlane,L1P,L,P32R,G
+EMBRAER,EMB-810,Seneca,,2,Piston,LandPlane,L2P,L,PA34,G
+EMBRAER,EMB-820,Navajo,,2,Piston,LandPlane,L2P,L,PA31,G
+EMBRAER,ERJ-135,,,2,Jet,LandPlane,L2J,M,E135,F
+EMBRAER,ERJ-140,,,2,Jet,LandPlane,L2J,M,E135,F
+EMBRAER,ERJ-145EP,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,ERJ-145ER,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,ERJ-145EU,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,ERJ-145LR,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,ERJ-145LU,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,ERJ-145MP,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,ERJ-145XR,,,2,Jet,LandPlane,L2J,M,E45X,F
+EMBRAER,,Ipanema,,1,Piston,LandPlane,L1P,L,IPAN,G
+EMBRAER,,Lance 2,,1,Piston,LandPlane,L1P,L,P32T,G
+EMBRAER,,Minuano,,1,Piston,LandPlane,L1P,L,PA32,G
+EMBRAER,,Navajo,,2,Piston,LandPlane,L2P,L,PA31,G
+EMBRAER,P-95,Bandeirulha,,2,Turboprop/Turboshaft,LandPlane,L2T,L,E110,G
+EMBRAER,PA-25,Pawnee,,1,Piston,LandPlane,L1P,L,PA25,G
+EMBRAER,PA-32RT-300,Lance 2,,1,Piston,LandPlane,L1P,L,P32T,G
+EMBRAER,,Pawnee,,1,Piston,LandPlane,L1P,L,PA25,G
+EMBRAER,Phenom 100,,,2,Jet,LandPlane,L2J,L,E50P,G
+EMBRAER,R-95,Bandeirante,,2,Turboprop/Turboshaft,LandPlane,L2T,L,E110,G
+EMBRAER,R-99,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,RT-26,Xavante,,1,Jet,LandPlane,L1J,L,M326,G
+EMBRAER,SC-95,Bandeirante,,2,Turboprop/Turboshaft,LandPlane,L2T,L,E110,G
+EMBRAER,,Seneca,,2,Piston,LandPlane,L2P,L,PA34,G
+EMBRAER,,Sertanejo,,1,Piston,LandPlane,L1P,L,P32R,G
+EMBRAER,,Super Tucano,,1,Turboprop/Turboshaft,LandPlane,L1T,L,E314,G
+EMBRAER,T-27,Tucano,,1,Turboprop/Turboshaft,LandPlane,L1T,L,TUCA,G
+EMBRAER,,Tucano,,1,Turboprop/Turboshaft,LandPlane,L1T,L,TUCA,G
+EMBRAER,,Tupi,,1,Piston,LandPlane,L1P,L,P28A,G
+EMBRAER,U-7,Seneca,,2,Piston,LandPlane,L2P,L,PA34,G
+EMBRAER,EMB-550 Legacy 500,,,2,Jet,LandPlane,L2J,M,E550,G
+EMBRAER,U-19,Ipanema,,1,Piston,LandPlane,L1P,L,IPAN,G
+EMBRAER,VC-97,Brasilia,,2,Turboprop/Turboshaft,LandPlane,L2T,M,E120,G
+EMBRAER,VU-9,Xingu,,2,Turboprop/Turboshaft,LandPlane,L2T,L,E121,G
+EMBRAER,,Xavante,,1,Jet,LandPlane,L1J,L,M326,G
+EMBRAER,,Xingu,,2,Turboprop/Turboshaft,LandPlane,L2T,L,E121,G
+EMBRAER,YA-29,Super Tucano,,1,Turboprop/Turboshaft,LandPlane,L1T,L,E314,G
+EMBRAER,EMB-711ST Corisco 2 Turbo,,,1,Piston,LandPlane,L1P,L,P28U,G
+EMBRAER,Corisco 2 Turbo,,,1,Piston,LandPlane,L1P,L,P28U,G
+EMBRAER,Legacy 600,,,2,Jet,LandPlane,L2J,M,E35L,F
+EMBRAER,Legacy 650,,,2,Jet,LandPlane,L2J,M,E35L,F
+EMBRAER,VC-99B Legacy,,,2,Jet,LandPlane,L2J,M,E35L,F
+EMBRAER,VC-99B Legacy 600,,,2,Jet,LandPlane,L2J,M,E35L,F
+EMBRAER,E-99,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,VC-99A,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,EMB-145AEW&C,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,EMB-145SM,,,2,Jet,LandPlane,L2J,M,E145,F
+EMBRAER,VC-99C,,,2,Jet,LandPlane,L2J,M,E135,F
+EMBRAER,EMB-135ER,,,2,Jet,LandPlane,L2J,M,E135,F
+EMBRAER,EMB-135KE,,,2,Jet,LandPlane,L2J,M,E135,F
+EMBRAER,EMB-135KL,,,2,Jet,LandPlane,L2J,M,E135,F
+EMBRAER,EMB-135LR,,,2,Jet,LandPlane,L2J,M,E135,F
+EMBRAER,195,,,2,Jet,LandPlane,L2J,M,E195,E
+EMBRAER,ERJ-190-100,,,2,Jet,LandPlane,L2J,M,E190,E
+EMBRAER,ERJ-190-200,,,2,Jet,LandPlane,L2J,M,E195,E
+EMBRAER,ERJ-190-300,,,2,Jet,LandPlane,L2J,M,E290,D
+EMBRAER,E190-E2,,,2,Jet,LandPlane,L2J,M,E290,D
+EMBRAER,ERJ-190-400,,,2,Jet,LandPlane,L2J,M,E295,D
+EMBRAER,E195-E2,,,2,Jet,LandPlane,L2J,M,E295,D
+EMBRAER,ERJ-190-500,,,2,Jet,LandPlane,L2J,M,E275,Z
+EMBRAER,E175-E2,,,2,Jet,LandPlane,L2J,M,E275,Z
+EMBRAER,EMB-550 Praetor 600,,,2,Jet,LandPlane,L2J,M,E550,G
+EMBRAER,,Praetor 600,,2,Jet,LandPlane,L2J,M,E550,G
+EMBRAER,EMB-545 Praetor 500,,,2,Jet,LandPlane,L2J,M,E545,G
+EMBRAER,,Praetor 500,,2,Jet,LandPlane,L2J,M,E545,G
+EMBRAER,,Legacy 450,,2,Jet,LandPlane,L2J,M,E545,G
+EMBRAER,,Legacy 500,,2,Jet,LandPlane,L2J,M,E550,G
+EMBRAER,,Legacy (EMB-135BJ),,2,Jet,LandPlane,L2J,M,E35L,F
+EMBRAER,EMB-203,Ipanema,,1,Piston,LandPlane,L1P,L,IPAN,G
+EMBRAER,KC-390,,,2,Jet,LandPlane,L2J,M,E390,
+EMBRAER,C-390,Millennium,,2,Jet,LandPlane,L2J,M,E390,
+EMBRAER,,Millennium,,2,Jet,LandPlane,L2J,M,E390,
+EMBRAER,EMB-390,,,2,Jet,LandPlane,L2J,M,E390,
