@@ -1,0 +1,43 @@
+manufacturer_code,model_no,model_name,model_version,engine_count,engine_type,aircraft_desc,description,wtc,tdesig,wtg
+DE HAVILLAND,,Chipmunk,,1,Piston,LandPlane,L1P,L,DHC1,G
+DE HAVILLAND,,Comet Replica,,2,Piston,LandPlane,L2P,L,DH88,G
+DE HAVILLAND,,Devon,,2,Piston,LandPlane,L2P,L,DOVE,G
+DE HAVILLAND,DH-60,Moth,,1,Piston,LandPlane,L1P,L,DH60,G
+DE HAVILLAND,DH-60,Moth Major,,1,Piston,LandPlane,L1P,L,DH60,G
+DE HAVILLAND,DH-80,Puss Moth,,1,Piston,LandPlane,L1P,L,DH80,G
+DE HAVILLAND,DH-82,Queen Bee,,1,Piston,LandPlane,L1P,L,DH82,G
+DE HAVILLAND,DH-82,Tiger Moth,,1,Piston,LandPlane,L1P,L,DH82,G
+DE HAVILLAND,DH-83,Fox Moth,,1,Piston,LandPlane,L1P,L,DH83,G
+DE HAVILLAND,DH-85,Leopard Moth,,1,Piston,LandPlane,L1P,L,DH85,G
+DE HAVILLAND,DH-87,Hornet Moth,,1,Piston,LandPlane,L1P,L,DH87,G
+DE HAVILLAND,DH-88,Comet Replica,,2,Piston,LandPlane,L2P,L,DH88,G
+DE HAVILLAND,DH-89,Dragon Rapide,,2,Piston,LandPlane,L2P,L,DH89,G
+DE HAVILLAND,DH-90,Dragonfly,,2,Piston,LandPlane,L2P,L,DH90,G
+DE HAVILLAND,DH-94,Moth Minor,,1,Piston,LandPlane,L1P,L,DH94,G
+DE HAVILLAND,DH-98,Mosquito,,2,Piston,LandPlane,L2P,M,MOSQ,G
+DE HAVILLAND,DH-100,Vampire,,1,Jet,LandPlane,L1J,L,VAMP,G
+DE HAVILLAND,DH-104,Dove,,2,Piston,LandPlane,L2P,L,DOVE,G
+DE HAVILLAND,DH-112,Venom,,1,Jet,LandPlane,L1J,M,VNOM,G
+DE HAVILLAND,DH-114,Heron,,4,Piston,LandPlane,L4P,L,HERN,G
+DE HAVILLAND,DH-115,Vampire,,1,Jet,LandPlane,L1J,L,VAMP,G
+DE HAVILLAND,DH-125,,,2,Jet,LandPlane,L2J,M,H25A,G
+DE HAVILLAND,DHC-1,Chipmunk,,1,Piston,LandPlane,L1P,L,DHC1,G
+DE HAVILLAND,,Dove,,2,Piston,LandPlane,L2P,L,DOVE,G
+DE HAVILLAND,,Dragon Rapide,,2,Piston,LandPlane,L2P,L,DH89,G
+DE HAVILLAND,,Dragonfly,,2,Piston,LandPlane,L2P,L,DH90,G
+DE HAVILLAND,,Fox Moth,,1,Piston,LandPlane,L1P,L,DH83,G
+DE HAVILLAND,,Heron,,4,Piston,LandPlane,L4P,L,HERN,G
+DE HAVILLAND,,Hornet Moth,,1,Piston,LandPlane,L1P,L,DH87,G
+DE HAVILLAND,,Leopard Moth,,1,Piston,LandPlane,L1P,L,DH85,G
+DE HAVILLAND,,Mosquito,,2,Piston,LandPlane,L2P,M,MOSQ,G
+DE HAVILLAND,,Moth,,1,Piston,LandPlane,L1P,L,DH60,G
+DE HAVILLAND,,Moth Major,,1,Piston,LandPlane,L1P,L,DH60,G
+DE HAVILLAND,,Moth Minor,,1,Piston,LandPlane,L1P,L,DH94,G
+DE HAVILLAND,,Puss Moth,,1,Piston,LandPlane,L1P,L,DH80,G
+DE HAVILLAND,,Queen Bee,,1,Piston,LandPlane,L1P,L,DH82,G
+DE HAVILLAND,,Sea Devon,,2,Piston,LandPlane,L2P,L,DOVE,G
+DE HAVILLAND,,Tiger Moth,,1,Piston,LandPlane,L1P,L,DH82,G
+DE HAVILLAND,,Vampire,,1,Jet,LandPlane,L1J,L,VAMP,G
+DE HAVILLAND,,Venom,,1,Jet,LandPlane,L1J,M,VNOM,G
+DE HAVILLAND,DH-84,Dragon,,2,Piston,LandPlane,L2P,L,DH84,
+DE HAVILLAND,,Dragon,,2,Piston,LandPlane,L2P,L,DH84,

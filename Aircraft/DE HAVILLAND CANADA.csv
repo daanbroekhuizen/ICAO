@@ -1,0 +1,53 @@
+manufacturer_code,model_no,model_name,model_version,engine_count,engine_type,aircraft_desc,description,wtc,tdesig,wtg
+DE HAVILLAND CANADA,,Beaver,,1,Piston,LandPlane,L1P,L,DHC2,G
+DE HAVILLAND CANADA,,Buffalo,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DHC5,E
+DE HAVILLAND CANADA,C-7,Caribou,,2,Piston,LandPlane,L2P,M,DHC4,G
+DE HAVILLAND CANADA,C-8,Buffalo,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DHC5,E
+DE HAVILLAND CANADA,C-115,Buffalo,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DHC5,E
+DE HAVILLAND CANADA,,Caribou,,2,Piston,LandPlane,L2P,M,DHC4,G
+DE HAVILLAND CANADA,CC-115,Buffalo,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DHC5,E
+DE HAVILLAND CANADA,CC-138,Twin Otter,,2,Turboprop/Turboshaft,LandPlane,L2T,L,DHC6,G
+DE HAVILLAND CANADA,CC-142,Dash 8,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH8A,F
+DE HAVILLAND CANADA,,Chipmunk,,1,Piston,LandPlane,L1P,L,DHC1,G
+DE HAVILLAND CANADA,CS2F,Tracker,,2,Piston,LandPlane,L2P,M,S2P,G
+DE HAVILLAND CANADA,CT-142,Dash 8,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH8A,F
+DE HAVILLAND CANADA,CV-2,Caribou,,2,Piston,LandPlane,L2P,M,DHC4,G
+DE HAVILLAND CANADA,CV-7,Buffalo,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DHC5,E
+DE HAVILLAND CANADA,,Dash 7,,4,Turboprop/Turboshaft,LandPlane,L4T,M,DHC7,E
+DE HAVILLAND CANADA,,Dash 8 (100),,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH8A,F
+DE HAVILLAND CANADA,,Dash 8 (200),,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH8B,F
+DE HAVILLAND CANADA,,Dash 8 (300),,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH8C,F
+DE HAVILLAND CANADA,,Dash 8 (400),,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH8D,E
+DE HAVILLAND CANADA,DH-82,Tiger Moth,,1,Piston,LandPlane,L1P,L,DH82,G
+DE HAVILLAND CANADA,DHC-1,Chipmunk,,1,Piston,LandPlane,L1P,L,DHC1,G
+DE HAVILLAND CANADA,DHC-2 Mk1,Beaver,,1,Piston,LandPlane,L1P,L,DHC2,G
+DE HAVILLAND CANADA,DHC-2 Mk3,Turbo Beaver,,1,Turboprop/Turboshaft,LandPlane,L1T,L,DH2T,G
+DE HAVILLAND CANADA,DHC-3,Otter,,1,Piston,LandPlane,L1P,L,DHC3,G
+DE HAVILLAND CANADA,DHC-3,Turbo Otter,,1,Turboprop/Turboshaft,LandPlane,L1T,L,DH3T,G
+DE HAVILLAND CANADA,DHC-4,Caribou,,2,Piston,LandPlane,L2P,M,DHC4,G
+DE HAVILLAND CANADA,DHC-5,Buffalo,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DHC5,E
+DE HAVILLAND CANADA,DHC-6,Twin Otter,,2,Turboprop/Turboshaft,LandPlane,L2T,L,DHC6,G
+DE HAVILLAND CANADA,DHC-7,Dash 7,,4,Turboprop/Turboshaft,LandPlane,L4T,M,DHC7,E
+DE HAVILLAND CANADA,DHC-8-100,Dash 8,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH8A,F
+DE HAVILLAND CANADA,DHC-8-200,Dash 8,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH8B,F
+DE HAVILLAND CANADA,DHC-8-300,Dash 8,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH8C,F
+DE HAVILLAND CANADA,DHC-8-400,Dash 8,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH8D,E
+DE HAVILLAND CANADA,E-9,Dash 8,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH8A,F
+DE HAVILLAND CANADA,EO-5,Dash 7,,4,Turboprop/Turboshaft,LandPlane,L4T,M,DHC7,E
+DE HAVILLAND CANADA,L-20,Beaver,,1,Piston,LandPlane,L1P,L,DHC2,G
+DE HAVILLAND CANADA,NU-1,Otter,,1,Piston,LandPlane,L1P,L,DHC3,G
+DE HAVILLAND CANADA,O-5,Dash 7,,4,Turboprop/Turboshaft,LandPlane,L4T,M,DHC7,E
+DE HAVILLAND CANADA,,Otter,,1,Piston,LandPlane,L1P,L,DHC3,G
+DE HAVILLAND CANADA,RC-7,Dash 7,,4,Turboprop/Turboshaft,LandPlane,L4T,M,DHC7,E
+DE HAVILLAND CANADA,S-2,Tracker,,2,Piston,LandPlane,L2P,M,S2P,G
+DE HAVILLAND CANADA,,Tiger Moth,,1,Piston,LandPlane,L1P,L,DH82,G
+DE HAVILLAND CANADA,,Tracker,,2,Piston,LandPlane,L2P,M,S2P,G
+DE HAVILLAND CANADA,,Turbo Beaver,,1,Turboprop/Turboshaft,LandPlane,L1T,L,DH2T,G
+DE HAVILLAND CANADA,,Turbo Otter,,1,Turboprop/Turboshaft,LandPlane,L1T,L,DH3T,G
+DE HAVILLAND CANADA,,Twin Otter,,2,Turboprop/Turboshaft,LandPlane,L2T,L,DHC6,G
+DE HAVILLAND CANADA,U-1,Otter,,1,Piston,LandPlane,L1P,L,DHC3,G
+DE HAVILLAND CANADA,U-6,Beaver,,1,Piston,LandPlane,L1P,L,DHC2,G
+DE HAVILLAND CANADA,UC,Otter,,1,Piston,LandPlane,L1P,L,DHC3,G
+DE HAVILLAND CANADA,UV-18,Twin Otter,,2,Turboprop/Turboshaft,LandPlane,L2T,L,DHC6,G
+DE HAVILLAND CANADA,DHC-4,Turbo Caribou,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH4T,
+DE HAVILLAND CANADA,,Turbo Caribou,,2,Turboprop/Turboshaft,LandPlane,L2T,M,DH4T,
